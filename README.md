@@ -19,7 +19,6 @@ Diploma Computer Engineering Student • Python Developer • Machine Learning E
 🌱 Currently learning
 
 - Machine Learning
-- Flask
 - Data Analysis
 - SQL
 - Git & GitHub
@@ -35,7 +34,7 @@ Diploma Computer Engineering Student • Python Developer • Machine Learning E
 - Master Machine Learning
 - Build impactful projects
 - Contribute to Open Source
-- Become an AI Engineer
+
 
 ---
 
@@ -132,12 +131,12 @@ Diploma Computer Engineering Student • Python Developer • Machine Learning E
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Add your LinkedIn URL below -->
-<!--
-<a href="https://linkedin.com/in/your-link">
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/
+shubh-gudka-473b732b3">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
--->
+
 
 </p>
 
