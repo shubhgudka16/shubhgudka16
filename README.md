@@ -83,25 +83,11 @@ Diploma Computer Engineering Student • Python Developer • Machine Learning E
 
 🚗 Car Price Prediction
 
----
-
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
----
 
 
 
 ---
+
 
 # 📫 Connect with Me
 
