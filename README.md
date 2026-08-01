@@ -11,7 +11,7 @@
 - 🖥️ I'm a **3rd Year Diploma student in Computer Engineering**
 - 📡 Currently studying **Internet of Things (IoT)** and **Information Security**
 - 🌱 Always learning by building real, hands-on projects
-- 🎯 Focused on becoming placement-ready with a strong technical foundation
+- 🤖 Currently learning AI/ML through hands-on projects
 
 ---
 
