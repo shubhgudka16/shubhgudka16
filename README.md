@@ -2,10 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=230&section=header&text=Shubh%20Gudka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20AI%20%7C%20IoT%20%7C%20Web%20Development&descAlignY=55"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shubh+Gudka;Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;IoT+Developer;Web+Developer;Always+Learning+New+Things+🚀" />
-</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/shubhgudka16?label=Followers&style=social" />
+</p>
 
 
 ---
