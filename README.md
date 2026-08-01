@@ -21,13 +21,12 @@
 
 📡 Currently learning Internet of Things (IoT)
 
-🌐 Web Development Enthusiast
 
 💻 Love building real-world projects
 
 📚 Always learning new technologies
 
-🚀 Goal: Become a Software Engineer
+
 
 ---
 
@@ -36,8 +35,7 @@
 - 🚀 Build more real-world projects
 - 🤖 Learn Deep Learning
 - 🌐 Master Full Stack Development
-- 📡 Build innovative IoT systems
-- ⭐ Contribute to Open Source
+
 
 ---
 
@@ -46,7 +44,7 @@
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 </p>
 
 ### 🌐 Frameworks & Libraries
@@ -65,7 +63,7 @@
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ### 📖 Currently Learning
@@ -87,25 +85,9 @@
 - 🏠 House Price Prediction
 - 🚗 Car Price Prediction
 
-## 🌐 Web Development
 
-- 🛒 Nike Shopping Website
-- 🎓 Campus Connect
-- 🌍 Portfolio Website
 
-## 📡 IoT
 
-- 🔥 Smart Fire Detection System
-- 🏠 Smart Home Automation
-- 🌡️ Temperature Monitoring System
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubhgudka16&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
