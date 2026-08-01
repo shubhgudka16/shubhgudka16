@@ -47,7 +47,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=radical&count_private=true" alt="Shubh's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhgudka16&theme=radical" alt="Shubh's GitHub Streak" height="165"/>
 </p>
 
