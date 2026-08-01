@@ -6,10 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Shubh+Gudka;Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;IoT+Developer;Web+Developer;Always+Learning+New+Things+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/shubhgudka16?label=Followers&style=social" />
-</p>
+
 
 ---
 
