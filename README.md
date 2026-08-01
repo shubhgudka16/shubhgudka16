@@ -1,41 +1,64 @@
-## Shubh Gudka
+<h1 align="center">Hi there, I'm Shubh Gudka 👋</h1>
 
-**3rd Year Diploma Student · Computer Engineering**
+<p align="center">
+  Diploma in Computer Engineering | 3rd Year Student
+</p>
 
-Currently diving into **Internet of Things (IoT)** and **Information Security** — learning how systems connect, and how to keep them safe.
+---
 
-```
-class Shubh:
-    def __init__(self):
-        self.education = "Diploma in Computer Engineering, Year 3"
-        self.focus     = ["IoT", "Information Security"]
-        self.mindset   = "learn by building"
-```
+### 🎓 About Me
 
-### Reach me
+- 🖥️ I'm a **3rd Year Diploma student in Computer Engineering**
+- 📡 Currently studying **Internet of Things (IoT)** and **Information Security**
+- 🌱 Always learning by building real, hands-on projects
+- 🎯 Focused on becoming placement-ready with a strong technical foundation
 
-| | |
-|---|---|
-| 📧 Email | shubhgudka66@gmail.com |
-| 💼 LinkedIn | [shubh-gudka-473b732b3](https://www.linkedin.com/in/shubh-gudka-473b732b3) |
+---
 
-### What I work with
+### 🤝 Connect With Me
 
-`HTML` `CSS` `JavaScript` `Python` `Machine Learning` `SQL` `Oracle` `Git` `GitHub`
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shubhgudka66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<br>
+---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&theme=github-compact&hide_border=true)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-</div>
+---
 
-<div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&hide_border=true&theme=github_dark" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&hide_border=true&theme=github_dark" />
-</div>
+### 📊 GitHub Stats
 
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=radical&count_private=true" alt="Shubh's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhgudka16&theme=radical" alt="Shubh's GitHub Streak" height="165"/>
+</p>
 
-> *One project at a time.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&theme=redical" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="center"><i>Always learning, always building 🚀</i></p>
