@@ -1,60 +1,165 @@
-<h1 align="center">Hi there, I'm Shubh Gudka 👋</h1>
+# 👋 Hi, I'm **Shubh Gudka**
 
 <p align="center">
-  Diploma in Computer Engineering | 3rd Year Student
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;IoT+Developer;Web+Developer;Always+Learning+New+Things+🚀" />
 </p>
-
----
-
-### 🎓 About Me
-
-- 🖥️ I'm a **3rd Year Diploma student in Computer Engineering**
-- 📡 Currently studying **Internet of Things (IoT)** and **Information Security**
-- 🌱 Always learning by building real, hands-on projects
-- 🤖 Currently learning AI/ML through hands-on projects
-
----
-
-### 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shubhgudka66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhgudka16&theme=radical" alt="Shubh's GitHub Streak" height="165"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&theme=redical" alt="Contribution Graph"/>
+  <img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/shubhgudka16?label=Followers&style=social" />
 </p>
 
 ---
 
-<p align="center"><i>Always learning, always building 🚀</i></p>
+# 🚀 About Me
+
+🎓 Diploma in Computer Engineering (3rd Year)
+
+💻 Passionate about Programming & Technology
+
+🤖 Exploring Artificial Intelligence & Machine Learning
+
+📡 Learning Internet of Things (IoT)
+
+🌐 Building Web Applications
+
+📚 I believe in learning by building real-world projects.
+
+---
+
+# 🔥 Current Focus
+
+* 🌱 Machine Learning Projects
+* 📡 IoT using NodeMCU
+* 🌍 Full Stack Web Development
+* 🔐 Information Security
+* 💡 Open Source Contributions
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Learning
+
+* Machine Learning
+* Internet of Things
+* Information Security
+* Data Science
+
+---
+
+# 🌟 Featured Projects
+
+### 🤖 AI & Machine Learning
+
+* Credit Card Fraud Detection
+* Student Stress Prediction
+* Spam Email Detection
+* House Price Prediction
+* Car Price Prediction
+
+### 🌐 Web Development
+
+* Nike Shopping Website
+* Campus Connect
+* Portfolio Website
+
+### 📡 IoT
+
+* Smart Fire Detection System
+* NodeMCU Projects
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhgudka16&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shubhgudka16&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/shubhgudka16/shubhgudka16/output/github-contribution-grid-snake.svg"/>
+</p>
+
+> **Note:** The snake animation requires a GitHub Actions workflow to generate automatically.
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/shubh-gudka-473b732b3">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:shubhgudka66@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Repeat." 🚀**
