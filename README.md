@@ -1,121 +1,64 @@
-<h1 align="center">Hi 👋, I'm Shubh Gudka</h1>
-
-<h3 align="center">
-Diploma Computer Engineering Student • Python Developer • Machine Learning Enthusiast
-</h3>
-
-
-
----
-
-# 💫 About Me
-
-🎓 Diploma Computer Engineering Student
-
-💻 Passionate about Python, Machine Learning, Data Science and Web Development
-
-🌱 Currently learning
-
-- Machine Learning
-- Data Analysis
-- SQL
-- Git & GitHub
-
-🚀 Working on
-
-- Real-world Machine Learning Projects
-- Data Science Portfolio
-- Open Source Learning
-
-🎯 2026 Goals
-
-- Master Machine Learning
-- Build impactful projects
-- Contribute to Open Source
-
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,js"/>
-</p>
-
-### Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,bootstrap"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### Data Science
-
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-Learn
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-❤️ Heart Disease Prediction
-
-💰 Loan Approval Prediction
-
-📧 Spam Email Detection
-
-🎓 Student Stress Prediction
-
-🚗 Car Price Prediction
-
-
-
-
----
-
-
-# 📫 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/shubhgudka16">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-
-<a href="https://linkedin.com/in/www.linkedin.com/in/
-shubh-gudka-473b732b3">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-
-</p>
-
----
-
-# 💭 Quote
-
-> "Learning never stops. Every project is one step closer to becoming a better developer."
-
----
+<h1 align="center">Hi there, I'm Shubh Gudka 👋</h1>
 
 <p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+  Diploma in Computer Engineering | 3rd Year Student
 </p>
+
+---
+
+### 🎓 About Me
+
+- 🖥️ I'm a **3rd Year Diploma student in Computer Engineering**
+- 📡 Currently studying **Internet of Things (IoT)** and **Information Security**
+- 🌱 Always learning by building real, hands-on projects
+- 🎯 Focused on becoming placement-ready with a strong technical foundation
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shubhgudka66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=radical&count_private=true" alt="Shubh's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhgudka16&theme=radical" alt="Shubh's GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&theme=redical" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="center"><i>Always learning, always building 🚀</i></p>
