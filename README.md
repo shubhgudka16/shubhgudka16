@@ -42,7 +42,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
 </p>
 
 ### Frameworks & Libraries
@@ -83,16 +83,7 @@
 * House Price Prediction
 * Car Price Prediction
 
-### 🌐 Web Development
 
-* Nike Shopping Website
-* Campus Connect
-* Portfolio Website
-
-### 📡 IoT
-
-* Smart Fire Detection System
-* NodeMCU Projects
 
 ---
 
@@ -114,11 +105,7 @@
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shubhgudka16&theme=tokyonight&row=1&column=6"/>
-</p>
 
 ---
 
@@ -129,14 +116,6 @@
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shubhgudka16/shubhgudka16/output/github-contribution-grid-snake.svg"/>
-</p>
-
-> **Note:** The snake animation requires a GitHub Actions workflow to generate automatically.
 
 ---
 
