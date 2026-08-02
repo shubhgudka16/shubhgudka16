@@ -5,7 +5,7 @@
 
 ### **Diploma Student in Computer Engineering**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3BA5FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Learning+by+Building+Projects;IoT+%7C+Information+Security;Python+Developer;Welcome+to+my+GitHub!" />
+
 
 <br>
 
