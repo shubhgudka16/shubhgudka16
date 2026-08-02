@@ -70,11 +70,68 @@ Mission:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,bootstrap,git,github,mysql" />
+<table>
+<tr>
 
-<br><br>
+<td align="center" width="25%">
 
-`Machine Learning` • `NumPy` • `Pandas` • `Scikit-Learn` • `Matplotlib` • `SQL` • `Oracle`
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /><br><br>
+
+HTML<br>
+CSS<br>
+JavaScript<br>
+Bootstrap
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,c,java" /><br><br>
+
+Python<br>
+C<br>
+Java
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python" /><br><br>
+
+Machine Learning<br>
+NumPy<br>
+Pandas<br>
+Scikit-Learn<br>
+Matplotlib
+
+</td>
+
+<td align="center">
+
+### 🗄️ Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github" /><br><br>
+
+SQL<br>
+Oracle<br>
+Git<br>
+GitHub
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
