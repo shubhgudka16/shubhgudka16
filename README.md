@@ -65,23 +65,16 @@ Mission:
 
 ---
 
+
 # 🛠 Tech Stack
 
 <div align="center">
-
-### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java,bootstrap,git,github,mysql" />
 
 <br><br>
 
-![](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge)
-![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+`Machine Learning` • `NumPy` • `Pandas` • `Scikit-Learn` • `Matplotlib` • `SQL` • `Oracle`
 
 </div>
 
@@ -149,13 +142,8 @@ Learn → Build → Improve → Repeat
 
 ---
 
+
 <div align="center">
-
-## ✨ Quote
-
-> **"Success isn't built in a single breakthrough—it's built in the quiet hours spent learning, building, failing, and trying again. Every line of code I write is another step toward the engineer I aspire to become."**
-
-<br>
 
 ### ⭐ Thank you for visiting my profile!
 
