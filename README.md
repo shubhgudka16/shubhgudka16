@@ -1,108 +1,94 @@
-<!-- ========================= HEADER ========================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=230&section=header&text=Shubh%20Gudka&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20AI%20%7C%20IoT%20%7C%20Web%20Development&descAlignY=55"/>
-
+# Hi 👋, I'm Shubh Gudka
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/shubhgudka16?label=Followers&style=social" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Diploma+Computer+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;Python+Developer;IoT+Explorer;Web+Developer;Always+Learning+New+Things" />
 </p>
-
-
----
-
-# 👨‍💻 About Me
-
-🎓 Diploma in Computer Engineering (3rd Year)
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-📡 Currently learning Internet of Things (IoT)
-
-
-💻 Love building real-world projects
-
-📚 Always learning new technologies
-
-
-
----
-
-# 🎯 Current Goals
-
-- 🚀 Build more real-world projects
-- 🤖 Learn Deep Learning
-- 🌐 Master Full Stack Development
-
-
----
-
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
-</p>
-
-### 🌐 Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### 📖 Currently Learning
-
-- Machine Learning
-- Internet of Things
-- Information Security
-- Data Science
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI & Machine Learning
-
-- 💳 Credit Card Fraud Detection
-- 📧 Spam Email Detection
-- 🎓 Student Stress Prediction
-- 🏠 House Price Prediction
-- 🚗 Car Price Prediction
-
-
-
-
-
----
-
-# 📊 GitHub Statistics
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhgudka16&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/shubhgudka16?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/shubhgudka16?style=for-the-badge" />
+</p>
 
+---
+
+# 💻 whoami
+
+```bash
+> whoami
+
+Name          : Shubh Gudka
+Education     : Diploma in Computer Engineering
+Location      : Gujarat, India
+Interests     : AI • Machine Learning • IoT • Web Development
+Current Goal  : Become an AI Engineer
+Status        : Building projects and learning every day 🚀
+```
+
+# 🚀 About Me
+
+- 🎓 Diploma in Computer Engineering
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🌐 Learning Full Stack Web Development
+- 🔥 Building practical IoT and ML projects
+- 💡 Love solving real-world problems with code
+- 🌱 Currently exploring Python, Data Science and React
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js"/>
+</p>
+
+### Web
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
+</p>
+
+### AI / ML
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql"/>
+</p>
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🔥 Smart Fire Detection System | NodeMCU, Flame Sensors, Servo & Water Pump |
+| 📧 Spam Email Classifier | NLP + Scikit-Learn |
+| 📈 Student Stress Prediction | Machine Learning |
+| 👟 Nike Shopping Website | HTML, CSS, Bootstrap & JavaScript |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=shubhgudka16&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shubhgudka16&theme=tokyonight&column=4&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -115,45 +101,87 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🎯 2026 Goals
 
-> This works only after adding the GitHub Action.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/shubhgudka16/shubhgudka16/output/github-contribution-grid-snake.svg"/>
-</p>
+- ✅ Master Python
+- ✅ Build AI & ML Projects
+- ✅ Learn IoT
+- 🔄 Learn React
+- 🔄 Contribute to Open Source
+- 🔄 Deploy Full Stack Projects
 
 ---
 
+# ☕ Fun Code
 
+```python
+class ShubhGudka:
 
+    role = "Computer Engineering Student"
 
+    skills = [
+        "Python",
+        "Machine Learning",
+        "IoT",
+        "Web Development"
+    ]
 
+    motto = "Learn • Build • Improve • Repeat"
+
+    def say_hi(self):
+        return "Thanks for visiting my GitHub!"
+```
+
+---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<p>
+<a href="https://github.com/shubhgudka16">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:shubhgudka66@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
+
+- GitHub: https://github.com/shubhgudka16
+- LinkedIn: https://www.linkedin.com/in/shubh-gudka-473b732b3
+- Email: shubhgudka66@gmail.com
 
 ---
 
-# 💡 Quote
+# 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+# 🐍 Snake Contribution
+
+Create a GitHub Action using Platane/snk to generate:
+
+```text
+dist/github-contribution-grid-snake.svg
+```
+
+Then embed:
+
+```html
+<p align="center">
+<img src="https://raw.githubusercontent.com/shubhgudka16/shubhgudka16/output/github-contribution-grid-snake.svg"/>
+</p>
+```
+
+---
 
 <p align="center">
-
-> **"Code. Learn. Build. Repeat. 🚀"**
-
+⭐ If you like my projects, consider giving them a star!
+<br><br>
+<strong>Thanks for visiting my profile ❤️</strong>
 </p>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00C2FF&height=120&section=footer"/>
