@@ -1,39 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=SHUBH%20GUDKA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20Explorer&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SHUBH%20GUDKA&fontSize=65&color=0:00F5FF,50:0066FF,100:7B2CFF&stroke=00F5FF&strokeWidth=2&animation=twinkling&fontColor=FFFFFF&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20EXPLORER&descSize=18&descAlignY=70"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Machine+Learning+Explorer;Python+%7C+Data+%7C+Intelligence;Learning+IoT+%26+Information+Security;Turning+Data+into+Knowledge+%E2%80%A2+Learning+into+Skills" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=19&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=850&lines=Data+Science+%26+Machine+Learning+Explorer;Python+%7C+Data+%7C+Artificial+Intelligence;Learning+IoT+%26+Information+Security;Building+Knowledge+%E2%80%A2+One+Project+at+a+Time" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=PROFILE%20VIEWS&color=0e7490&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=PROFILE%20VIEWS&color=00F5FF&style=flat-square"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
 <table>
 <tr>
-<td width="65%">
+<td width="65%" valign="top">
 
-### `> whoami`
+## 🧠 About Me
 
-I'm **Shubh Gudka**, a Computer Engineering student exploring the world of **Data Science, Machine Learning, Web Development, IoT and Information Security**.
+> **Computer Engineering Student | Data & Technology Explorer**
 
-My primary interest lies in working with **Python, data and machine learning**, while continuously expanding my knowledge across different areas of technology.
+I'm **Shubh Gudka**, exploring the world of **Data Science, Machine Learning, Web Development, IoT and Information Security**.
+
+My current journey is focused on understanding how **data, algorithms and technology** can be transformed into practical solutions.
+
+<br>
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   📊  DATA SCIENCE                          │
-│   🤖  MACHINE LEARNING                      │
-│   🌐  WEB DEVELOPMENT                       │
-│   📡  INTERNET OF THINGS                    │
-│   🔐  INFORMATION SECURITY                  │
-│                                             │
-└─────────────────────────────────────────────┘
+╭──────────────────────────────────────────────╮
+│                                              │
+│   📊  DATA SCIENCE                           │
+│   🤖  MACHINE LEARNING                       │
+│   🌐  WEB DEVELOPMENT                        │
+│   📡  INTERNET OF THINGS                     │
+│   🔐  INFORMATION SECURITY                   │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
 </td>
@@ -44,21 +46,21 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 <br><br>
 
-### `CURRENT FOCUS`
+### `CURRENTLY EXPLORING`
 
-📊 Data
-
-<br>
-
-🤖 Machine Learning
+📊 **Data**
 
 <br>
 
-📡 IoT
+🤖 **Machine Learning**
 
 <br>
 
-🔐 Security
+📡 **IoT**
+
+<br>
+
+🔐 **Security**
 
 </td>
 </tr>
@@ -66,20 +68,20 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 ---
 
-# ⚡ Technology Stack
-
 <div align="center">
 
-### `DOMAIN MASTERY & TECHNICAL ECOSYSTEM`
+# ⚡ TECHNICAL ECOSYSTEM
+
+`DATA`   `AI`   `WEB`   `IOT`   `SECURITY`
 
 </div>
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 💻 CORE LANGUAGES
+### 🧬 PROGRAMMING CORE
 
 <br>
 
@@ -87,18 +89,18 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 <br><br>
 
-| Technology    | Focus       |
-| :------------ | :---------- |
-| 🐍 Python     | Data / ML   |
-| ⚙️ C          | Programming |
-| 🟨 JavaScript | Web         |
-| 🐘 PHP        | Backend     |
+<table>
+<tr><td>🐍</td><td><b>Python</b></td></tr>
+<tr><td>⚙️</td><td><b>C</b></td></tr>
+<tr><td>🟨</td><td><b>JavaScript</b></td></tr>
+<tr><td>🐘</td><td><b>PHP</b></td></tr>
+</table>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 📊 DATA & AI
+### 📊 DATA & MACHINE LEARNING
 
 <br>
 
@@ -110,15 +112,23 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 <br><br>
 
-`NumPy` • `Pandas`
-`Matplotlib` • `Scikit-learn`
-`TensorFlow` • `Machine Learning`
+`NumPy`
+
+`Pandas`
+
+`Matplotlib`
+
+`Scikit-learn`
+
+`TensorFlow`
+
+`Machine Learning`
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🌐 WEB TECHNOLOGY
+### 🌐 WEB DEVELOPMENT
 
 <br>
 
@@ -126,8 +136,14 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 <br><br>
 
-`HTML` • `CSS`
-`JavaScript` • `Bootstrap`
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+`Bootstrap`
+
 `PHP`
 
 </td>
@@ -136,7 +152,7 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 <tr>
 
-<td align="center">
+<td align="center" valign="top">
 
 ### 📡 IoT & EMBEDDED
 
@@ -148,17 +164,21 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 📡 **Internet of Things**
 
-<br>
+<br><br>
 
 ⚙️ **Embedded Systems**
 
-<br>
+<br><br>
 
 🔌 **Sensors & Devices**
 
+<br><br>
+
+💻 **C Programming**
+
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 ### 🔐 INFORMATION SECURITY
 
@@ -180,25 +200,29 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
-### 🧰 DEVELOPMENT TOOLS
+### 🛠️ TOOLS & DATABASE
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 
 <br><br>
 
-🗄️ **SQL**
+🔧 **Git**
 
-<br><br>
+<br>
+
+🐙 **GitHub**
+
+<br>
 
 💻 **VS Code**
 
-<br><br>
+<br>
 
-🔧 **Git & GitHub**
+🗄️ **SQL**
 
 </td>
 
@@ -209,73 +233,133 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 <div align="center">
 
-### 🧬 TECHNOLOGY MATRIX
+## 🧩 TECHNOLOGY MAP
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                        SHUBH'S TECH STACK                           ║
-╠══════════════════════╦═══════════════════════╦═══════════════════════╣
-║  💻 PROGRAMMING      ║  📊 DATA & AI         ║  🌐 WEB              ║
-╠══════════════════════╬═══════════════════════╬═══════════════════════╣
-║  Python              ║  NumPy                ║  HTML                ║
-║  C                   ║  Pandas               ║  CSS                 ║
-║  JavaScript          ║  Matplotlib           ║  JavaScript           ║
-║  PHP                 ║  Scikit-learn         ║  Bootstrap            ║
-║                      ║  TensorFlow            ║  PHP                  ║
-╠══════════════════════╬═══════════════════════╬═══════════════════════╣
-║  📡 IoT              ║  🔐 SECURITY           ║  🗄️ DATABASE          ║
-╠══════════════════════╬═══════════════════════╬═══════════════════════╣
-║  IoT                 ║  Information Security ║  SQL                  ║
-║  Embedded Systems    ║  Network Security     ║  Relational DB        ║
-║  Arduino             ║  Cybersecurity        ║                       ║
-╚══════════════════════╩═══════════════════════╩═══════════════════════╝
-```
+<table>
+<tr>
+<td align="center">
+
+### `01` PROGRAMMING
+
+🐍 Python
+⚙️ C
+🟨 JavaScript
+🐘 PHP
+
+</td>
+
+<td align="center">
+
+### `02` DATA & AI
+
+🔢 NumPy
+🐼 Pandas
+📈 Matplotlib
+🧠 Scikit-learn
+🔥 TensorFlow
+
+</td>
+
+<td align="center">
+
+### `03` WEB
+
+🌐 HTML
+🎨 CSS
+⚡ JavaScript
+🅱️ Bootstrap
+🐘 PHP
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### `04` IoT
+
+📡 IoT
+⚙️ Embedded
+🔌 Sensors
+🟢 Arduino
+
+</td>
+
+<td align="center">
+
+### `05` SECURITY
+
+🔐 Information Security
+🛡️ Network Security
+🔒 Security Fundamentals
+⚔️ Cybersecurity
+
+</td>
+
+<td align="center">
+
+### `06` DATABASE & TOOLS
+
+🗄️ SQL
+🐙 GitHub
+🔧 Git
+💻 VS Code
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="38%" />
-
-</div>
+# 📊 GITHUB ANALYTICS
 
 <br>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050B14&title_color=00F5FF&text_color=C9D1D9&icon_color=00F5FF&rank_icon=github" width="49%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=shubhgudka16&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shubhgudka16&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&langs_count=8&hide_border=true&bg_color=050B14&title_color=00F5FF&text_color=C9D1D9" width="39%" />
 
 </div>
 
 ---
 
-# 📊 Contribution Graph
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Shubh%20Gudka's%20Contribution%20Activity" width="96%" />
+# 🏆 GITHUB ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=shubhgudka16&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
+
+# 🔥 CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com?user=shubhgudka16&theme=transparent&hide_border=true&background=050B14&ring=00F5FF&fire=7B2CFF&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&bg_color=050B14&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&area_color=0066FF&hide_border=true&custom_title=SHUBH%20GUDKA%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="96%" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 CONTRIBUTION FLOW
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%" />
 
@@ -283,26 +367,28 @@ My primary interest lies in working with **Python, data and machine learning**, 
 
 ---
 
-# 🤝 Let's Connect
-
 <div align="center">
 
+# 🤝 LET'S CONNECT
+
+<br>
+
 <a href="https://github.com/shubhgudka16">
-<img src="https://img.shields.io/badge/GitHub-Shubh%20Gudka-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=050B14"/>
 </a>
 
   
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=050B14"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
+<code>DATA → INTELLIGENCE → INNOVATION</code>
 
-<div align="center">
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:0066FF,100:00F5FF&height=130&section=footer"/>
 
 </div>
