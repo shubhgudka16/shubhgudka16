@@ -185,6 +185,8 @@ SQL
 ---
 ---
 
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -200,8 +202,8 @@ SQL
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&theme=tokyo-night"
-    width="95%"
+    src="https://streak-stats.demolab.com/?user=shubhgudka16&theme=tokyonight&hide_border=false&card_width=900"
+    width="90%"
   />
 </p>
 
