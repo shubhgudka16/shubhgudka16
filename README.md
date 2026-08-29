@@ -4,7 +4,7 @@
 
 <p align="center">
   <code>Python</code> &nbsp;|&nbsp;
-  <code>Artificial Intelligence</code>
+  <code>Artificial Intelligence & Machine Learning</code>
 </p>
 
 <p align="center">
