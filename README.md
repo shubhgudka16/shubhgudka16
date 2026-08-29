@@ -30,7 +30,7 @@ I enjoy learning by building, experimenting with different technologies, and tur
 
 <h2 align="center">🛠️ TECHNOLOGIES</h2>
 
-### 💻 Programming
+### 💻 PROGRAMMING
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,7 +43,7 @@ I enjoy learning by building, experimenting with different technologies, and tur
 
 ---
 
-### 📊 Data & AI
+### 📊 DATA & AI
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -57,7 +57,7 @@ I enjoy learning by building, experimenting with different technologies, and tur
 
 ---
 
-### 🌐 Web
+### 🌐 WEB
 
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -83,7 +83,7 @@ I enjoy learning by building, experimenting with different technologies, and tur
 
 ---
 
-### 🔐 Information Security
+### 🔐 INFORMATION SECURITY
 
 - 🛡️ Information Security
 - 🌐 Network Security
@@ -92,7 +92,7 @@ I enjoy learning by building, experimenting with different technologies, and tur
 
 ---
 
-### 🧰 Tools & Database
+### 🧰 TOOLS & DATABASE
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -180,3 +180,25 @@ SQL
 </td>
 </tr>
 </table>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight&hide_border=false"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=shubhgudka16&theme=tokyonight&hide_border=false"
+    width="70%"
+  />
+</p>
