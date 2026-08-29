@@ -104,6 +104,7 @@ I enjoy learning by building, experimenting with different technologies, and tur
 **Git • GitHub • VS Code • SQL**
 
 ---
+---
 
 <h2 align="center">🧬 TECHNOLOGY MATRIX</h2>
 
@@ -186,19 +187,19 @@ SQL
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=tokyonight&hide_border=false&count_private=true"
-    height="180"
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=shubhgudka16&show_icons=true&theme=tokyonight&hide_border=false"
+    width="48%"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight&hide_border=false"
-    height="180"
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight&hide_border=false"
+    width="48%"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shubhgudka16&theme=tokyonight&hide_border=false"
+  <img
+    src="https://streak-stats.demolab.com?user=shubhgudka16&theme=tokyonight&hide_border=false"
     width="70%"
   />
 </p>
