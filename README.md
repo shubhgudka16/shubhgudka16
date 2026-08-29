@@ -1,277 +1,182 @@
-<div align="center">
+<h1 align="center">SHUBH GUDKA</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,45:111827,75:172554,100:06b6d4&text=SHUBH%20GUDKA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20EXPLORER&descSize=17&descAlignY=60&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=850&lines=Data+Science+%26+Machine+Learning+Explorer;Python+%7C+Data+%7C+Artificial+Intelligence;Learning+IoT+%26+Information+Security;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting+%E2%80%A2+Improving" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=shubhgudka16&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 👨‍💻 ABOUT ME
-
-### `Computer Engineering Student • Data & Technology Explorer`
-
-</div>
-
-<table>
-<tr>
-<td width="65%" valign="top">
-
-I'm **Shubh Gudka**, exploring the intersection of **Data Science, Machine Learning, Web Development, IoT and Information Security**.
-
-My main focus is developing strong foundations in **Python, data analysis, machine learning and software development**, while continuously exploring new areas of technology.
-
-I enjoy learning by building, experimenting with different technologies, and turning concepts into practical implementations.
-
-</td>
-
-<td width="35%" align="center">
-
-```text
-╭─────────────────────╮
-│                     │
-│   📊 DATA           │
-│                     │
-│   🤖 ML             │
-│                     │
-│   🌐 WEB            │
-│                     │
-│   📡 IoT            │
-│                     │
-│   🔐 SECURITY       │
-│                     │
-╰─────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# ⚡ TECHNOLOGY STACK
-
-`PROGRAMMING` • `DATA` • `AI` • `WEB` • `IoT` • `SECURITY`
-
-</div>
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 💻 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=python,c,js,php" />
-
-<br><br>
-
-`Python`
-`C`
-`JavaScript`
-`PHP`
-
-</td>
-
-<td width="33%" align="center">
-
-### 📊 DATA & AI
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-
-<br><br>
-
-`NumPy` • `Pandas`
-`Matplotlib`
-`Scikit-learn`
-`TensorFlow`
-`Machine Learning`
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 WEB
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
-
-<br><br>
-
-`HTML` • `CSS`
-`JavaScript`
-`Bootstrap`
-`PHP`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 📡 IoT
-
-<img src="https://skillicons.dev/icons?i=arduino" />
-
-<br><br>
-
-📡 Internet of Things
-
-<br><br>
-
-⚙️ Embedded Systems
-
-<br><br>
-
-🔌 Sensors & Devices
-
-</td>
-
-<td align="center">
-
-### 🔐 INFORMATION SECURITY
-
-<br>
-
-🛡️ Information Security
-
-<br><br>
-
-🌐 Network Security
-
-<br><br>
-
-🔒 Security Fundamentals
-
-<br><br>
-
-⚔️ Cybersecurity Concepts
-
-</td>
-
-<td align="center">
-
-### 🧰 TOOLS & DATABASE
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-
-<br><br>
-
-`Git` • `GitHub`
-`VS Code` • `SQL`
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-# 🧬 TECHNOLOGY MATRIX
-
-</div>
-
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│                         SHUBH GUDKA                                  │
-│                     TECHNOLOGY MATRIX                                │
-├──────────────────────┬──────────────────────┬────────────────────────┤
-│ 💻 PROGRAMMING       │ 📊 DATA / AI         │ 🌐 WEB                 │
-├──────────────────────┼──────────────────────┼────────────────────────┤
-│ Python               │ NumPy                │ HTML                   │
-│ C                    │ Pandas               │ CSS                    │
-│ JavaScript           │ Matplotlib           │ JavaScript             │
-│ PHP                  │ Scikit-learn         │ Bootstrap              │
-│                      │ TensorFlow           │ PHP                    │
-├──────────────────────┼──────────────────────┼────────────────────────┤
-│ 📡 IoT               │ 🔐 SECURITY          │ 🧰 TOOLS               │
-├──────────────────────┼──────────────────────┼────────────────────────┤
-│ Arduino              │ Information Security │ Git                    │
-│ Embedded Systems     │ Network Security     │ GitHub                 │
-│ Sensors              │ Security Concepts    │ VS Code                │
-│ IoT                  │ Cybersecurity        │ SQL                    │
-└──────────────────────┴──────────────────────┴────────────────────────┘
-```
-
----
-
-<div align="center">
-
-# 📊 GITHUB ANALYTICS
-
-</div>
+<h3 align="center">DATA SCIENCE | MACHINE LEARNING EXPLORER</h3>
 
 <p align="center">
-  <img src="./profile/stats.svg" width="49%" />
-  <img src="./profile/top-langs.svg" width="39%" />
+  <code>Python</code> &nbsp;|&nbsp;
+  <code>Data</code> &nbsp;|&nbsp;
+  <code>Artificial Intelligence</code>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-<div align="center">
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
-# 🔥 GITHUB STREAK
+<p align="center">
+  <strong>Computer Engineering Student • Data & Technology Explorer</strong>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=shubhgudka16&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="78%" />
+I'm Shubh Gudka, exploring the intersection of Data Science, Machine Learning, Web Development, IoT and Information Security.
 
-</div>
+My main focus is developing strong foundations in Python, data analysis, machine learning and software development while continuously exploring new areas of technology.
 
----
-
-<div align="center">
-
-# 📈 CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&bg_color=050B14&color=22D3EE&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=SHUBH%20GUDKA%20%7C%20CONTRIBUTION%20ACTIVITY" width="96%" />
-
-</div>
+I enjoy learning by building, experimenting with different technologies, and turning ideas into practical solutions.
 
 ---
 
-<div align="center">
+<h2 align="center">🛠️ TECHNOLOGIES</h2>
 
-# 🐍 CONTRIBUTION FLOW
+### 💻 Programming
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-</div>
+**Python • C • JavaScript • PHP**
 
 ---
 
-<div align="center">
+### 📊 Data & AI
 
-# 🤝 LET'S CONNECT
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
-<br>
+**NumPy • Pandas • Matplotlib • Scikit-learn • TensorFlow • Machine Learning**
 
-<a href="https://github.com/shubhgudka16">
-<img src="https://img.shields.io/badge/GitHub-050B14?style=for-the-badge&logo=github&logoColor=22D3EE&label=SHUBH%20GUDKA"/>
-</a>
+---
 
-<br><br>
+### 🌐 Web
 
-<code>DATA → INTELLIGENCE → INNOVATION</code>
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-<br><br>
+**HTML • CSS • JavaScript • Bootstrap • PHP**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:172554,100:050505&section=footer"/>
+---
 
-</div>
+### 🔬 IoT
+
+<p>
+  <strong>🔌 Arduino</strong>
+</p>
+
+- Internet of Things
+- Embedded Systems
+- Sensors & Devices
+
+---
+
+### 🔐 Information Security
+
+- 🛡️ Information Security
+- 🌐 Network Security
+- 🔒 Security Fundamentals
+- 🛠️ Cybersecurity Concepts
+
+---
+
+### 🧰 Tools & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+**Git • GitHub • VS Code • SQL**
+
+---
+
+<h2 align="center">🧬 TECHNOLOGY MATRIX</h2>
+
+<table align="center">
+<tr>
+<th>💻 PROGRAMMING</th>
+<th>📊 DATA / AI</th>
+<th>🌐 WEB</th>
+</tr>
+
+<tr>
+<td>
+
+Python  
+C  
+JavaScript  
+PHP
+
+</td>
+
+<td>
+
+NumPy  
+Pandas  
+Matplotlib  
+Scikit-learn  
+TensorFlow
+
+</td>
+
+<td>
+
+HTML  
+CSS  
+JavaScript  
+Bootstrap  
+PHP
+
+</td>
+</tr>
+
+<tr>
+<th>🔬 IoT</th>
+<th>🔐 SECURITY</th>
+<th>🧰 TOOLS</th>
+</tr>
+
+<tr>
+<td>
+
+Arduino  
+Embedded Systems  
+Sensors  
+IoT
+
+</td>
+
+<td>
+
+Information Security  
+Network Security  
+Security Concepts  
+Cybersecurity
+
+</td>
+
+<td>
+
+Git  
+GitHub  
+VS Code  
+SQL
+
+</td>
+</tr>
+</table>
