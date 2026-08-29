@@ -183,6 +183,7 @@ SQL
 </table>
 
 ---
+---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -199,7 +200,9 @@ SQL
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=shubhgudka16&theme=tokyonight&hide_border=false"
-    width="70%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shubhgudka16&theme=tokyo-night"
+    width="95%"
   />
 </p>
+
+  
