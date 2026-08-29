@@ -4,7 +4,6 @@
 
 <p align="center">
   <code>Python</code> &nbsp;|&nbsp;
-  <code>Data</code> &nbsp;|&nbsp;
   <code>Artificial Intelligence</code>
 </p>
 
