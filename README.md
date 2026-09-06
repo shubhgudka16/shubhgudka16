@@ -180,8 +180,26 @@ SQL
 </td>
 </tr>
 </table>
+<h2 align="center">🍴 CodeChef</h2>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/shubh_gudka17">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>👨‍💻 Competitive Programming • Problem Solving • DSA</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/shubh_gudka17">
+    🔗 Visit My CodeChef Profile
+  </a>
+</p>
 
 ---
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 
