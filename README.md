@@ -1,224 +1,78 @@
-<h1 align="center">SHUBH GUDKA</h1>
+<div align="center">
+  <h1>Hi there, I'm Shubh Gudka 👋</h1>
+  <p><strong>Final Year CE Diploma Student in Jamnagar • Python Enthusiast • AI & ML Learner</strong></p>
 
-<h3 align="center">DATA SCIENCE | MACHINE LEARNING EXPLORER</h3>
-
-<p align="center">
-  <code>Python</code> &nbsp;|&nbsp;
-  <code>Artificial Intelligence & Machine Learning</code>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhgudka16&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile Views"/>
-</p>
+  <!-- Animated Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Final+Year+CE+Diploma+Student+in+Jamnagar;Python+Enthusiast;AI+%26+ML+Learner" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-<h2 align="center">👨‍💻 ABOUT ME</h2>
+### 👨‍💻 About Me
+I am a final-year **Computer Engineering Diploma student** in **Jamnagar**.
 
-<p align="center">
-  <strong>Computer Engineering Student • Data & Technology Explorer</strong>
-</p>
-
-I'm Shubh Gudka, exploring the intersection of Data Science, Machine Learning, Web Development, IoT and Information Security.
-
-My main focus is developing strong foundations in Python, data analysis, machine learning and software development while continuously exploring new areas of technology.
-
-I enjoy learning by building, experimenting with different technologies, and turning ideas into practical solutions.
+- **Python Enthusiast** – Writing clean code, data workflows, and practical applications.
+- **AI & ML Learner** – Exploring machine learning models, data preprocessing, and predictive analytics.
 
 ---
 
-<h2 align="center">🛠️ TECHNOLOGIES</h2>
+### 🛠️ Technology Stack
 
-### 💻 PROGRAMMING
-
+#### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-**Python • C • JavaScript • PHP**
-
----
-
-### 📊 DATA & AI
-
+#### **AI & Machine Learning**
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-**NumPy • Pandas • Matplotlib • Scikit-learn • TensorFlow • Machine Learning**
-
----
-
-### 🌐 WEB
-
+#### **Web Development**
 <p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-**HTML • CSS • JavaScript • Bootstrap • PHP**
-
----
-
-### 🔬 IoT
-
+#### **Tools & Databases**
 <p>
-  <strong>🔌 Arduino</strong>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-- Internet of Things
-- Embedded Systems
-- Sensors & Devices
+---
+
+### 📌 Projects
+- **[Campus Connect](https://github.com/shubhgudka16/campus-connect)** – Web application built with HTML, CSS, JavaScript, PHP, and SQL.
+- **[credit-card-fraud-transaction-detection](https://github.com/shubhgudka16/credit-card-fraud-transaction-detection)** – Machine learning project focused on detecting fraudulent credit card transactions from transaction data.
+- **[House-Price-Prediction](https://github.com/shubhgudka16/House-Price-Prediction)** – Predictive modeling project estimating house prices using data analysis and machine learning techniques.
 
 ---
 
-### 🔐 INFORMATION SECURITY
-
-- 🛡️ Information Security
-- 🌐 Network Security
-- 🔒 Security Fundamentals
-- 🛠️ Cybersecurity Concepts
-
----
-
-### 🧰 TOOLS & DATABASE
-
+### 🤝 Connect With Me
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-**Git • GitHub • VS Code • SQL**
-
----
----
-
-<h2 align="center">🧬 TECHNOLOGY MATRIX</h2>
-
-<table align="center">
-<tr>
-<th>💻 PROGRAMMING</th>
-<th>📊 DATA / AI</th>
-<th>🌐 WEB</th>
-</tr>
-
-<tr>
-<td>
-
-Python  
-C  
-JavaScript  
-PHP
-
-</td>
-
-<td>
-
-NumPy  
-Pandas  
-Matplotlib  
-Scikit-learn  
-TensorFlow
-
-</td>
-
-<td>
-
-HTML  
-CSS  
-JavaScript  
-Bootstrap  
-PHP
-
-</td>
-</tr>
-
-<tr>
-<th>🔬 IoT</th>
-<th>🔐 SECURITY</th>
-<th>🧰 TOOLS</th>
-</tr>
-
-<tr>
-<td>
-
-Arduino  
-Embedded Systems  
-Sensors  
-IoT
-
-</td>
-
-<td>
-
-Information Security  
-Network Security  
-Security Concepts  
-Cybersecurity
-
-</td>
-
-<td>
-
-Git  
-GitHub  
-VS Code  
-SQL
-
-</td>
-</tr>
-</table>
-<h2 align="center">🍴 CodeChef</h2>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/shubh_gudka17">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubhgudka66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/shubhgudka16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <strong>👨‍💻 Competitive Programming • Problem Solving • DSA</strong>
-</p>
-
-<p align="center">
-  <a href="https://www.codechef.com/users/shubh_gudka17">
-    🔗 Visit My CodeChef Profile
-  </a>
-</p>
-
----
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=shubhgudka16&show_icons=true&theme=tokyonight&hide_border=false"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight&hide_border=false"
-    width="48%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=shubhgudka16&theme=tokyonight&hide_border=false&card_width=900"
-    width="90%"
-  />
-</p>
-
-  
