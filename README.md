@@ -95,18 +95,6 @@ I am a final-year **Computer Engineering Diploma student** in **Jamnagar**.
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%A4%9D+Connect+With+Me" alt="Connect With Me" />
 
-  <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shubhgudka66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/shubhgudka16" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer" alt="" width="100%" />
