@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Shubh Gudka 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=220&section=header&text=Hi%20there%2C%20I'm%20Shubh%20Gudka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Hi there, I'm Shubh Gudka 👋" width="100%" />
 
 **Final Year CE Diploma Student in Jamnagar &nbsp;•&nbsp; Python Enthusiast &nbsp;•&nbsp; AI & ML Learner**
 
@@ -22,18 +22,22 @@
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me" />
+</div>
 
 I am a final-year **Computer Engineering Diploma student** in **Jamnagar**.
 
 - 🐍 **Python Enthusiast** – Writing clean code, data workflows, and practical applications.
 - 🤖 **AI & ML Learner** – Exploring machine learning models, data preprocessing, and predictive analytics.
 
----
+<br>
 
-## 🛠️ Technology Stack
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+Technology+Stack" alt="Technology Stack" />
+</div>
 
 <table>
   <tr>
@@ -77,9 +81,11 @@ I am a final-year **Computer Engineering Diploma student** in **Jamnagar**.
   </tr>
 </table>
 
----
+<br>
 
-## 📌 Projects
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%93%8C+Projects" alt="Projects" />
+</div>
 
 | Project | Description |
 | :--- | :--- |
@@ -87,11 +93,11 @@ I am a final-year **Computer Engineering Diploma student** in **Jamnagar**.
 | 💳 **[credit-card-fraud-transaction-detection](https://github.com/shubhgudka16/credit-card-fraud-transaction-detection)** | Machine learning project focused on detecting fraudulent credit card transactions from transaction data. |
 | 🏠 **[House-Price-Prediction](https://github.com/shubhgudka16/House-Price-Prediction)** | Predictive modeling project estimating house prices using data analysis and machine learning techniques. |
 
----
+<br>
 
-## 🤝 Connect With Me
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%A4%9D+Connect+With+Me" alt="Connect With Me" />
 
-<p align="center">
   <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -101,4 +107,6 @@ I am a final-year **Computer Engineering Diploma student** in **Jamnagar**.
   <a href="https://github.com/shubhgudka16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer" alt="" width="100%" />
