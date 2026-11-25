@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 246 44" width="246" height="44" role="img" aria-label="shubhgudka66@gmail.com">
+  <rect x="3" y="5" width="240" height="36" rx="11" fill="#020617" opacity="0.65"/>
+  <rect x="1" y="4" width="242" height="36" rx="11" fill="#991B1B"/>
+  <rect x="1" y="1" width="242" height="36" rx="11" fill="#0F172A" stroke="#EA4335" stroke-width="1.3"/>
+  <line x1="12" y1="2.2" x2="232" y2="2.2" stroke="rgba(255,255,255,0.22)" stroke-width="1"/>
+  <rect x="10" y="7.5" width="24" height="22" rx="6" fill="#EA4335" opacity="0.22" stroke="#EA4335" stroke-opacity="0.6" stroke-width="1"/>
+  <text x="22" y="22.5" text-anchor="middle" fill="#EA4335" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700">@</text>
+  <text x="44" y="23" fill="#FEE2E2" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600">shubhgudka66@gmail.com</text>
+</svg>

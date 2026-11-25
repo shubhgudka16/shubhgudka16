@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 245" width="100%" role="img" aria-label="House Price Prediction">
+  <defs>
+    <linearGradient id="topAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="15" y="17" width="362" height="227" rx="16" fill="#020617" opacity="0.55"/>
+  <rect x="13" y="13" width="362" height="227" rx="16" fill="#1E293B" stroke="#0F172A" stroke-width="1"/>
+  <rect x="6" y="6" width="362" height="227" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="1.2"/>
+  <line x1="22" y1="7.2" x2="352" y2="7.2" stroke="rgba(255,255,255,0.22)" stroke-width="1.2" stroke-linecap="round"/>
+  <rect x="24" y="6" width="326" height="3" rx="1.5" fill="url(#topAccent)"/>
+
+  <!-- Top-left 3D Icon -->
+  <rect x="26" y="24" width="48" height="46" rx="11" fill="#020617" stroke="#1E293B" stroke-width="1"/>
+  <g><polygon points="38.74,48.35 50.0,54.85 50.0,62.0 38.74,55.5" fill="#059669" stroke="#A7F3D0" stroke-width="0.9" stroke-linejoin="round"/><polygon points="61.26,48.35 50.0,54.85 50.0,62.0 61.26,55.5" fill="#065F46" stroke="#A7F3D0" stroke-width="0.9" stroke-linejoin="round"/><polygon points="50.0,41.85 61.26,48.35 50.0,54.85 38.74,48.35" fill="#34D399" stroke="#A7F3D0" stroke-width="0.9" stroke-linejoin="round"/></g>
+  <g><polygon points="42.12,38.99 50.0,43.54 50.0,50.69 42.12,46.14" fill="#34D399" stroke="#A7F3D0" stroke-width="0.9" stroke-linejoin="round"/><polygon points="57.88,38.99 50.0,43.54 50.0,50.69 57.88,46.14" fill="#059669" stroke="#A7F3D0" stroke-width="0.9" stroke-linejoin="round"/><polygon points="50.0,34.44 57.88,38.99 50.0,43.54 42.12,38.99" fill="#F8FAFC" stroke="#A7F3D0" stroke-width="0.9" stroke-linejoin="round"/></g>
+
+  <!-- Metadata & Title -->
+  <text x="86" y="40" fill="#34D399" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="700" letter-spacing="0.8">PREDICTIVE ANALYTICS</text>
+  <text x="86" y="63" fill="#F8FAFC" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="16.5" font-weight="700">House Price Prediction</text>
+
+  <!-- Description -->
+  <text x="26" y="98" fill="#CBD5E1" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">Predictive model that estimates real</text>
+  <text x="26" y="117" fill="#CBD5E1" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">estate values using data analysis and</text>
+  <text x="26" y="136" fill="#CBD5E1" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">supervised machine learning.</text>
+
+  <!-- Stack Pills -->
+  <g><rect x="26" y="155" width="60.8" height="25" rx="8" fill="#020617" opacity="0.7"/><rect x="26" y="154" width="60.8" height="25" rx="8" fill="#34D399" opacity="0.45"/><rect x="26" y="152" width="60.8" height="25" rx="8" fill="#162032" stroke="#34D399" stroke-opacity="0.45" stroke-width="1"/><line x1="34" y1="153" x2="78.8" y2="153" stroke="rgba(255,255,255,0.18)" stroke-width="1"/><text x="56.4" y="168.8" text-anchor="middle" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Python</text></g><g><rect x="93.8" y="155" width="33.6" height="25" rx="8" fill="#020617" opacity="0.7"/><rect x="93.8" y="154" width="33.6" height="25" rx="8" fill="#34D399" opacity="0.45"/><rect x="93.8" y="152" width="33.6" height="25" rx="8" fill="#162032" stroke="#34D399" stroke-opacity="0.45" stroke-width="1"/><line x1="101.8" y1="153" x2="119.4" y2="153" stroke="rgba(255,255,255,0.18)" stroke-width="1"/><text x="110.6" y="168.8" text-anchor="middle" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">ML</text></g><g><rect x="134.4" y="155" width="88.0" height="25" rx="8" fill="#020617" opacity="0.7"/><rect x="134.4" y="154" width="88.0" height="25" rx="8" fill="#34D399" opacity="0.45"/><rect x="134.4" y="152" width="88.0" height="25" rx="8" fill="#162032" stroke="#34D399" stroke-opacity="0.45" stroke-width="1"/><line x1="142.4" y1="153" x2="214.4" y2="153" stroke="rgba(255,255,255,0.18)" stroke-width="1"/><text x="178.4" y="168.8" text-anchor="middle" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Regression</text></g>
+
+  <!-- 3D CTA Footer Link -->
+  <line x1="26" y1="192" x2="348" y2="192" stroke="#1E293B" stroke-width="1"/>
+  <text x="26" y="213" fill="#34D399" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="600">View Repository →</text>
+  <text x="348" y="213" text-anchor="end" fill="#64748B" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11">github.com/shubhgudka16</text>
+</svg>

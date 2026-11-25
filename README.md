@@ -1,106 +1,89 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=200&section=header&text=Shubh%20Gudka&fontSize=52&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Shubh Gudka" width="100%" />
+  <img src="./assets/hero-3d.svg" alt="Shubh Gudka — Final Year Computer Engineering Diploma Student" width="100%" />
 
-### Final Year Computer Engineering Diploma Student &nbsp;·&nbsp; Jamnagar
+  <br><br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&height=40&lines=Python+Enthusiast;AI+%26+ML+Learner;Clean+code%2C+data+workflows+%26+practical+applications" alt="Typing SVG" />
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:shubhgudka66@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/shubhgudka16" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+  <a href="https://www.linkedin.com/in/shubh-gudka-473b732b3" target="_blank">
+    <img src="./assets/social-linkedin.svg" alt="LinkedIn" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:shubhgudka66@gmail.com">
+    <img src="./assets/social-email.svg" alt="Email shubhgudka66@gmail.com" height="42" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/shubhgudka16" target="_blank">
+    <img src="./assets/social-github.svg" alt="GitHub shubhgudka16" height="42" />
+  </a>
 
 </div>
 
 <br>
 
+<img src="./assets/divider-3d.svg" alt="" width="100%" />
+
 ## 👨‍💻 About Me
 
-I’m a final-year **Computer Engineering Diploma student** based in **Jamnagar**, interested in building practical software and learning how data and machine learning can solve real problems.
+I’m a final-year **Computer Engineering Diploma student** based in **Jamnagar**, focused on building practical software and learning how data and machine learning solve real-world problems.
 
-- 🐍 **Python Enthusiast** — writing clean code, data workflows, and practical applications.
-- 🤖 **AI & ML Learner** — exploring machine learning models, data preprocessing, and predictive analytics.
+<div align="center">
+  <img src="./assets/about-3d.svg" alt="Python & Practical Software | AI & Machine Learning" width="100%" />
+</div>
 
 <br>
 
+<img src="./assets/divider-3d.svg" alt="" width="100%" />
+
 ## 🛠️ Technology Stack
+
+<div align="center">
+  <img src="./assets/tech-stack-3d.svg" alt="Technology Stack: Languages, AI & ML, Web Development, Tools & Databases" width="100%" />
+</div>
+
+<br>
+
+<img src="./assets/divider-3d.svg" alt="" width="100%" />
+
+## 📌 Featured Projects
 
 <table>
   <tr>
-    <td width="200"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+    <td width="33.33%" align="center">
+      <a href="https://github.com/shubhgudka16/campus-connect">
+        <img src="./assets/project-campus-connect.svg" alt="Campus Connect — Full-stack web application" width="100%" />
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td width="200"><b>AI &amp; Machine Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <td width="33.33%" align="center">
+      <a href="https://github.com/shubhgudka16/credit-card-fraud-transaction-detection">
+        <img src="./assets/project-fraud-detection.svg" alt="Credit Card Fraud Detection — Machine learning project" width="100%" />
+      </a>
     </td>
-  </tr>
-  <tr>
-    <td width="200"><b>Web Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    </td>
-  </tr>
-  <tr>
-    <td width="200"><b>Tools &amp; Databases</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+    <td width="33.33%" align="center">
+      <a href="https://github.com/shubhgudka16/House-Price-Prediction">
+        <img src="./assets/project-house-price.svg" alt="House Price Prediction — Predictive ML model" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 📌 Featured Projects
+<img src="./assets/divider-3d.svg" alt="" width="100%" />
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| 🎓 **[Campus Connect](https://github.com/shubhgudka16/campus-connect)** | A full web application for campus use, with a frontend, PHP backend, and SQL database. | `HTML` `CSS` `JavaScript` `PHP` `SQL` |
-| 💳 **[Credit Card Fraud Detection](https://github.com/shubhgudka16/credit-card-fraud-transaction-detection)** | Machine learning project that identifies fraudulent credit card transactions from transaction data. | `Python` `Machine Learning` |
-| 🏠 **[House Price Prediction](https://github.com/shubhgudka16/House-Price-Prediction)** | Predictive model that estimates house prices using data analysis and machine learning techniques. | `Python` `Machine Learning` |
-
-<br>
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&bg_color=0f172a&title_color=38bdf8&icon_color=6366f1&text_color=e2e8f0&border_color=1e293b&border_radius=12" alt="Shubh Gudka GitHub Stats" />
+  &nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&border_color=1e293b&border_radius=12" alt="Top Languages" />
 </div>
 
 <br>
 
+<img src="./assets/divider-3d.svg" alt="" width="100%" />
+
 ## 🤝 Let’s Connect
 
-Feel free to reach out for collaboration, feedback, or a conversation about Python, AI & ML.
-
-📫 **Email:** [shubhgudka66@gmail.com](mailto:shubhgudka66@gmail.com) &nbsp;|&nbsp; 💼 **LinkedIn:** [shubh-gudka](https://www.linkedin.com/in/shubh-gudka-473b732b3)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=120&section=footer" alt="" width="100%" />
+<div align="center">
+  <img src="./assets/footer-3d.svg" alt="Thanks for stopping by! Open to collaboration around Python, AI & ML." width="100%" />
+</div>
