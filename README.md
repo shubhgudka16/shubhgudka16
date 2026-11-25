@@ -73,9 +73,9 @@ I’m a final-year **Computer Engineering Diploma student** based in **Jamnagar*
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&bg_color=17233b&title_color=38bdf8&icon_color=a78bfa&text_color=f1f5f9&border_color=475569&border_radius=12" alt="Shubh Gudka GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shubhgudka16&show_icons=true&bg_color=fffdf9&title_color=0f172a&icon_color=f97316&text_color=334155&border_color=cbd5e1&border_radius=12" alt="Shubh Gudka GitHub Stats" />
   &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&bg_color=17233b&title_color=38bdf8&text_color=f1f5f9&border_color=475569&border_radius=12" alt="Top Languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhgudka16&layout=compact&bg_color=fffdf9&title_color=0f172a&text_color=334155&border_color=cbd5e1&border_radius=12" alt="Top Languages" />
 </div>
 
 <br>

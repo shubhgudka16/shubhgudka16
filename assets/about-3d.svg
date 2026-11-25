@@ -1,44 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 212" width="100%" role="img" aria-label="About Shubh Gudka">
-  <defs>
-    <linearGradient id="cardSurface" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#17233B"/>
-      <stop offset="100%" stop-color="#1E293B"/>
-    </linearGradient>
-    <linearGradient id="barCyan" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22D3EE"/>
-      <stop offset="100%" stop-color="#38BDF8"/>
-    </linearGradient>
-    <linearGradient id="barIndigo" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#818CF8"/>
-      <stop offset="100%" stop-color="#C084FC"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 224" width="100%" role="img" aria-label="About Shubh Gudka">
+  <!-- Bento Card 1 (Crisp Studio White + Sunset Coral) -->
+  <rect x="7" y="14" width="620" height="206" rx="18" fill="#0F172A" opacity="0.10"/>
+  <rect x="4" y="10" width="620" height="206" rx="18" fill="#FDBA74"/>
+  <rect x="4" y="4" width="620" height="206" rx="18" fill="#FFFFFF" stroke="#FB923C" stroke-width="1.3"/>
+  <rect x="34" y="34" width="64" height="62" rx="15" fill="#FFF7ED" stroke="#FB923C" stroke-width="1.3"/>
+  <g><polygon points="52.14,58.0 66.0,66.0 66.0,82.0 52.14,74.0" fill="#F97316" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/><polygon points="79.86,58.0 66.0,66.0 66.0,82.0 79.86,74.0" fill="#C2410C" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/><polygon points="66.0,50.0 79.86,58.0 66.0,66.0 52.14,58.0" fill="#FDBA74" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/></g>
+  <text x="116" y="58" fill="#C2410C" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">CORE FOCUS · 01</text>
+  <text x="116" y="84" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="21.5" font-weight="800">Python &amp; Practical Software</text>
+  <text x="34" y="128" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">Writing clean, maintainable Python code, structured data workflows,</text>
+  <text x="34" y="150" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">and practical end-to-end web and software applications.</text>
+  <rect x="34" y="168" width="380" height="24" rx="7" fill="#FFF7ED" stroke="#FDBA74" stroke-width="1"/>
+  <text x="46" y="184" fill="#9A3412" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700">Clean Code  ·  Data Workflows  ·  Full-Stack</text>
 
-  <!-- Card 1 -->
-  <rect x="18" y="19" width="572" height="190" rx="16" fill="#020617" opacity="0.65"/>
-  <rect x="15" y="15" width="572" height="190" rx="16" fill="#2A3B5C" stroke="#1E293B" stroke-width="1"/>
-  <rect x="8" y="8" width="572" height="190" rx="16" fill="url(#cardSurface)" stroke="#475569" stroke-width="1.35"/>
-  <line x1="24" y1="9.5" x2="564" y2="9.5" stroke="rgba(255,255,255,0.34)" stroke-width="1.4" stroke-linecap="round"/>
-  <rect x="26" y="8" width="536" height="4" rx="2" fill="url(#barCyan)"/>
-  <rect x="34" y="34" width="60" height="58" rx="14" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.6" stroke-width="1.2"/>
-  <g><polygon points="50.14,55.0 64.0,63.0 64.0,79.0 50.14,71.0" fill="#0EA5E9" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="77.86,55.0 64.0,63.0 64.0,79.0 77.86,71.0" fill="#0369A1" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="64.0,47.0 77.86,55.0 64.0,63.0 50.14,55.0" fill="#7DD3FC" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/></g>
-  <text x="112" y="57" fill="#38BDF8" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">CORE FOCUS · 01</text>
-  <text x="112" y="82" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Python &amp; Practical Software</text>
-  <text x="34" y="124" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5">Writing clean, maintainable Python code, structured data</text>
-  <text x="34" y="146" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5">workflows, and practical web and software applications.</text>
-  <text x="34" y="176" fill="#7DD3FC" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="600">Clean Code  ·  Data Workflows  ·  Full-Stack Basics</text>
-
-  <!-- Card 2 -->
-  <rect x="620" y="19" width="572" height="190" rx="16" fill="#020617" opacity="0.65"/>
-  <rect x="617" y="15" width="572" height="190" rx="16" fill="#2E3561" stroke="#1E293B" stroke-width="1"/>
-  <rect x="610" y="8" width="572" height="190" rx="16" fill="url(#cardSurface)" stroke="#475569" stroke-width="1.35"/>
-  <line x1="626" y1="9.5" x2="1166" y2="9.5" stroke="rgba(255,255,255,0.34)" stroke-width="1.4" stroke-linecap="round"/>
-  <rect x="628" y="8" width="536" height="4" rx="2" fill="url(#barIndigo)"/>
-  <rect x="636" y="34" width="60" height="58" rx="14" fill="#0F172A" stroke="#A78BFA" stroke-opacity="0.6" stroke-width="1.2"/>
-  <g><polygon points="652.14,55.0 666.0,63.0 666.0,79.0 652.14,71.0" fill="#8B5CF6" stroke="#EDE9FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="679.86,55.0 666.0,63.0 666.0,79.0 679.86,71.0" fill="#5B21B6" stroke="#EDE9FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="666.0,47.0 679.86,55.0 666.0,63.0 652.14,55.0" fill="#C4B5FD" stroke="#EDE9FE" stroke-width="1.1" stroke-linejoin="round"/></g>
-  <text x="714" y="57" fill="#C4B5FD" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">CORE FOCUS · 02</text>
-  <text x="714" y="82" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700">AI &amp; Machine Learning</text>
-  <text x="636" y="124" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5">Exploring machine learning models, data preprocessing,</text>
-  <text x="636" y="146" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5">and predictive analytics to solve real-world problems.</text>
-  <text x="636" y="176" fill="#C4B5FD" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="600">Predictive Analytics  ·  Preprocessing  ·  Model Training</text>
+  <!-- Bento Card 2 (High-Contrast Warm Slate + Amber Gold) -->
+  <rect x="647" y="14" width="548" height="206" rx="18" fill="#0F172A" opacity="0.10"/>
+  <rect x="644" y="10" width="548" height="206" rx="18" fill="#0F172A"/>
+  <rect x="644" y="4" width="548" height="206" rx="18" fill="#1E293B" stroke="#475569" stroke-width="1.3"/>
+  <rect x="674" y="34" width="60" height="62" rx="15" fill="#0F172A" stroke="#F59E0B" stroke-width="1.3"/>
+  <g><polygon points="690.14,58.0 704.0,66.0 704.0,82.0 690.14,74.0" fill="#F59E0B" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/><polygon points="717.86,58.0 704.0,66.0 704.0,82.0 717.86,74.0" fill="#B45309" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/><polygon points="704.0,50.0 717.86,58.0 704.0,66.0 690.14,58.0" fill="#FDE68A" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/></g>
+  <text x="752" y="58" fill="#FDE68A" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="0.8">CORE FOCUS · 02</text>
+  <text x="752" y="84" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="21.5" font-weight="800">AI &amp; Machine Learning</text>
+  <text x="674" y="128" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5">Exploring machine learning models, data</text>
+  <text x="674" y="150" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5">preprocessing, and predictive analytics.</text>
+  <rect x="674" y="168" width="388" height="24" rx="7" fill="#0F172A" stroke="#F59E0B" stroke-opacity="0.7" stroke-width="1"/>
+  <text x="686" y="184" fill="#FDE68A" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700">Predictive Models  ·  Preprocessing  ·  ML</text>
 </svg>

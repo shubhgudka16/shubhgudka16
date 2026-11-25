@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 144" width="100%" role="img" aria-label="Thanks for visiting Shubh Gudka's profile">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 146" width="100%" role="img" aria-label="Thanks for visiting Shubh Gudka's profile">
   <defs>
     <linearGradient id="fBg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0F172A"/>
       <stop offset="50%" stop-color="#1E293B"/>
-      <stop offset="100%" stop-color="#172554"/>
+      <stop offset="100%" stop-color="#0F172A"/>
     </linearGradient>
     <linearGradient id="fBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22D3EE"/>
-      <stop offset="50%" stop-color="#818CF8"/>
-      <stop offset="100%" stop-color="#34D399"/>
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="50%" stop-color="#F43F5E"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
     </linearGradient>
   </defs>
-  <rect x="6" y="7" width="1190" height="133" rx="18" fill="#020617" opacity="0.6"/>
-  <rect x="3" y="4" width="1192" height="134" rx="18" fill="#2A3B5C"/>
+  <rect x="4" y="8" width="1192" height="134" rx="18" fill="#0F172A" opacity="0.22"/>
+  <rect x="0" y="5" width="1192" height="134" rx="18" fill="#334155"/>
   <rect x="0" y="0" width="1192" height="134" rx="18" fill="url(#fBg)" stroke="#475569" stroke-width="1.3"/>
   <rect x="40" y="130" width="1112" height="4" rx="2" fill="url(#fBar)"/>
 
-  <g><polygon points="94.41,62.2 110.0,71.2 110.0,89.2 94.41,80.2" fill="#0EA5E9" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="125.59,62.2 110.0,71.2 110.0,89.2 125.59,80.2" fill="#0369A1" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="110.0,53.2 125.59,62.2 110.0,71.2 94.41,62.2" fill="#7DD3FC" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/></g><g><polygon points="114.68,80.2 127.15,87.4 127.15,99.1 114.68,91.9" fill="#8B5CF6" stroke="#EDE9FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="139.62,80.2 127.15,87.4 127.15,99.1 139.62,91.9" fill="#5B21B6" stroke="#EDE9FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="127.15,73.0 139.62,80.2 127.15,87.4 114.68,80.2" fill="#C4B5FD" stroke="#EDE9FE" stroke-width="1.1" stroke-linejoin="round"/></g>
-  <g><polygon points="1074.41,62.2 1090.0,71.2 1090.0,89.2 1074.41,80.2" fill="#10B981" stroke="#D1FAE5" stroke-width="1.1" stroke-linejoin="round"/><polygon points="1105.59,62.2 1090.0,71.2 1090.0,89.2 1105.59,80.2" fill="#047857" stroke="#D1FAE5" stroke-width="1.1" stroke-linejoin="round"/><polygon points="1090.0,53.2 1105.59,62.2 1090.0,71.2 1074.41,62.2" fill="#6EE7B7" stroke="#D1FAE5" stroke-width="1.1" stroke-linejoin="round"/></g><g><polygon points="1047.91,65.8 1060.38,73.0 1060.38,84.7 1047.91,77.5" fill="#0EA5E9" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="1072.85,65.8 1060.38,73.0 1060.38,84.7 1072.85,77.5" fill="#0369A1" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/><polygon points="1060.38,58.6 1072.85,65.8 1060.38,73.0 1047.91,65.8" fill="#7DD3FC" stroke="#E0F2FE" stroke-width="1.1" stroke-linejoin="round"/></g>
+  <g><polygon points="96.41,64.2 112.0,73.2 112.0,91.2 96.41,82.2" fill="#F97316" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/><polygon points="127.59,64.2 112.0,73.2 112.0,91.2 127.59,82.2" fill="#C2410C" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/><polygon points="112.0,55.2 127.59,64.2 112.0,73.2 96.41,64.2" fill="#FDBA74" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/></g><g><polygon points="116.68,82.2 129.15,89.4 129.15,101.1 116.68,93.9" fill="#F59E0B" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/><polygon points="141.62,82.2 129.15,89.4 129.15,101.1 141.62,93.9" fill="#B45309" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/><polygon points="129.15,75.0 141.62,82.2 129.15,89.4 116.68,82.2" fill="#FDE68A" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/></g>
+  <g><polygon points="1072.41,64.2 1088.0,73.2 1088.0,91.2 1072.41,82.2" fill="#0D9488" stroke="#134E4A" stroke-width="1.0" stroke-linejoin="round"/><polygon points="1103.59,64.2 1088.0,73.2 1088.0,91.2 1103.59,82.2" fill="#115E59" stroke="#134E4A" stroke-width="1.0" stroke-linejoin="round"/><polygon points="1088.0,55.2 1103.59,64.2 1088.0,73.2 1072.41,64.2" fill="#5EEAD4" stroke="#134E4A" stroke-width="1.0" stroke-linejoin="round"/></g><g><polygon points="1045.91,67.8 1058.38,75.0 1058.38,86.7 1045.91,79.5" fill="#F43F5E" stroke="#881337" stroke-width="1.0" stroke-linejoin="round"/><polygon points="1070.85,67.8 1058.38,75.0 1058.38,86.7 1070.85,79.5" fill="#BE123C" stroke="#881337" stroke-width="1.0" stroke-linejoin="round"/><polygon points="1058.38,60.6 1070.85,67.8 1058.38,75.0 1045.91,67.8" fill="#FDA4AF" stroke="#881337" stroke-width="1.0" stroke-linejoin="round"/></g>
 
   <text x="600.0" y="52" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="700">Thanks for stopping by!</text>
   <text x="600.0" y="81" text-anchor="middle" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5">Open to collaboration, feedback, and conversations around Python, AI &amp; Machine Learning.</text>
-  <text x="600.0" y="109" text-anchor="middle" fill="#7DD3FC" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12.5" font-weight="600">Shubh Gudka · Jamnagar · github.com/shubhgudka16</text>
+  <text x="600.0" y="109" text-anchor="middle" fill="#FDE68A" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12.5" font-weight="700">Shubh Gudka · Jamnagar · github.com/shubhgudka16</text>
 </svg>

@@ -1,35 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 248" width="100%" role="img" aria-label="House Price Prediction">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 268" width="100%" role="img" aria-label="House Price Prediction">
   <defs>
-    <linearGradient id="cardSurface" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#17233B"/>
-      <stop offset="100%" stop-color="#1E293B"/>
+    <linearGradient id="hdrGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#0284C7"/>
     </linearGradient>
-    <linearGradient id="topAccent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#34D399"/>
-      <stop offset="100%" stop-color="#2DD4BF"/>
-    </linearGradient>
+    <clipPath id="cardClip">
+      <rect x="4" y="4" width="368" height="58" rx="16"/>
+    </clipPath>
   </defs>
 
-  <rect x="16" y="17" width="362" height="230" rx="16" fill="#020617" opacity="0.65"/>
-  <rect x="13" y="13" width="362" height="230" rx="16" fill="#1E4240" stroke="#1E293B" stroke-width="1"/>
-  <rect x="6" y="6" width="362" height="230" rx="16" fill="url(#cardSurface)" stroke="#475569" stroke-width="1.35"/>
-  <line x1="22" y1="7.5" x2="352" y2="7.5" stroke="rgba(255,255,255,0.34)" stroke-width="1.4" stroke-linecap="round"/>
-  <rect x="24" y="6" width="326" height="4" rx="2" fill="url(#topAccent)"/>
+  <rect x="7" y="15" width="368" height="254" rx="16" fill="#0F172A" opacity="0.10"/>
+  <rect x="4" y="11" width="368" height="254" rx="16" fill="#99F6E4"/>
+  <rect x="4" y="4" width="368" height="254" rx="16" fill="#FFFFFF" stroke="#14B8A6" stroke-width="1.3"/>
 
-  <rect x="26" y="24" width="48" height="46" rx="11" fill="#0F172A" stroke="#34D399" stroke-opacity="0.7" stroke-width="1.2"/>
-  <g><polygon points="38.74,48.35 50.0,54.85 50.0,62.0 38.74,55.5" fill="#10B981" stroke="#D1FAE5" stroke-width="1.0" stroke-linejoin="round"/><polygon points="61.26,48.35 50.0,54.85 50.0,62.0 61.26,55.5" fill="#047857" stroke="#D1FAE5" stroke-width="1.0" stroke-linejoin="round"/><polygon points="50.0,41.85 61.26,48.35 50.0,54.85 38.74,48.35" fill="#6EE7B7" stroke="#D1FAE5" stroke-width="1.0" stroke-linejoin="round"/></g>
-  <g><polygon points="42.12,38.99 50.0,43.54 50.0,50.69 42.12,46.14" fill="#6EE7B7" stroke="#D1FAE5" stroke-width="1.0" stroke-linejoin="round"/><polygon points="57.88,38.99 50.0,43.54 50.0,50.69 57.88,46.14" fill="#10B981" stroke="#D1FAE5" stroke-width="1.0" stroke-linejoin="round"/><polygon points="50.0,34.44 57.88,38.99 50.0,43.54 42.12,38.99" fill="#FFFFFF" stroke="#D1FAE5" stroke-width="1.0" stroke-linejoin="round"/></g>
+  <!-- Colored 3D Studio Header Band -->
+  <g clip-path="url(#cardClip)">
+    <rect x="4" y="4" width="368" height="58" fill="url(#hdrGrad)"/>
+  </g>
+  <rect x="4" y="46" width="368" height="16" fill="url(#hdrGrad)"/>
+  <text x="24" y="39" fill="#FFFFFF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="0.9">PREDICTIVE ANALYTICS</text>
 
-  <text x="86" y="40" fill="#34D399" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="700" letter-spacing="0.8">PREDICTIVE ANALYTICS</text>
-  <text x="86" y="63" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">House Price Prediction</text>
+  <!-- Overlapping 3D Studio Emblem -->
+  <rect x="296" y="36" width="52" height="48" rx="12" fill="#FFFFFF" stroke="#14B8A6" stroke-width="1.4"/>
+  <g><polygon points="310.74,61.35 322.0,67.85 322.0,75.0 310.74,68.5" fill="#0D9488" stroke="#134E4A" stroke-width="0.9" stroke-linejoin="round"/><polygon points="333.26,61.35 322.0,67.85 322.0,75.0 333.26,68.5" fill="#115E59" stroke="#134E4A" stroke-width="0.9" stroke-linejoin="round"/><polygon points="322.0,54.85 333.26,61.35 322.0,67.85 310.74,61.35" fill="#99F6E4" stroke="#134E4A" stroke-width="0.9" stroke-linejoin="round"/></g>
+  <g><polygon points="314.12,51.99 322.0,56.54 322.0,63.69 314.12,59.14" fill="#99F6E4" stroke="#134E4A" stroke-width="0.9" stroke-linejoin="round"/><polygon points="329.88,51.99 322.0,56.54 322.0,63.69 329.88,59.14" fill="#0D9488" stroke="#134E4A" stroke-width="0.9" stroke-linejoin="round"/><polygon points="322.0,47.44 329.88,51.99 322.0,56.54 314.12,51.99" fill="#FFFFFF" stroke="#134E4A" stroke-width="0.9" stroke-linejoin="round"/></g>
 
-  <text x="26" y="98" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">Predictive model that estimates real</text>
-  <text x="26" y="117" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">estate values using data analysis and</text>
-  <text x="26" y="136" fill="#E2E8F0" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">supervised machine learning.</text>
+  <!-- Title & Body -->
+  <text x="24" y="96" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18.5" font-weight="800">House Price Prediction</text>
+  <text x="24" y="122" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">Predictive model that estimates real</text>
+  <text x="24" y="141" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">estate values using data analysis and</text>
+  <text x="24" y="160" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">supervised machine learning.</text>
 
-  <g><rect x="26" y="156" width="60.8" height="26" rx="9" fill="#020617" opacity="0.65"/><rect x="26" y="155" width="60.8" height="26" rx="9" fill="#059669"/><rect x="26" y="152" width="60.8" height="26" rx="9" fill="#113330" stroke="#34D399" stroke-width="1.25"/><line x1="35" y1="153.2" x2="77.8" y2="153.2" stroke="rgba(255,255,255,0.30)" stroke-width="1"/><text x="56.4" y="169.3" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Python</text></g><g><rect x="93.8" y="156" width="33.6" height="26" rx="9" fill="#020617" opacity="0.65"/><rect x="93.8" y="155" width="33.6" height="26" rx="9" fill="#059669"/><rect x="93.8" y="152" width="33.6" height="26" rx="9" fill="#113330" stroke="#34D399" stroke-width="1.25"/><line x1="102.8" y1="153.2" x2="118.4" y2="153.2" stroke="rgba(255,255,255,0.30)" stroke-width="1"/><text x="110.6" y="169.3" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">ML</text></g><g><rect x="134.4" y="156" width="88.0" height="26" rx="9" fill="#020617" opacity="0.65"/><rect x="134.4" y="155" width="88.0" height="26" rx="9" fill="#059669"/><rect x="134.4" y="152" width="88.0" height="26" rx="9" fill="#113330" stroke="#34D399" stroke-width="1.25"/><line x1="143.4" y1="153.2" x2="213.4" y2="153.2" stroke="rgba(255,255,255,0.30)" stroke-width="1"/><text x="178.4" y="169.3" text-anchor="middle" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Regression</text></g>
+  <g><rect x="24" y="177.5" width="60.8" height="25" rx="9" fill="#99F6E4"/><rect x="24" y="174" width="60.8" height="25" rx="9" fill="#F0FDFA" stroke="#14B8A6" stroke-width="1.3"/><text x="54.4" y="190.8" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Python</text></g><g><rect x="91.8" y="177.5" width="33.6" height="25" rx="9" fill="#99F6E4"/><rect x="91.8" y="174" width="33.6" height="25" rx="9" fill="#F0FDFA" stroke="#14B8A6" stroke-width="1.3"/><text x="108.6" y="190.8" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">ML</text></g><g><rect x="132.4" y="177.5" width="88.0" height="25" rx="9" fill="#99F6E4"/><rect x="132.4" y="174" width="88.0" height="25" rx="9" fill="#F0FDFA" stroke="#14B8A6" stroke-width="1.3"/><text x="176.4" y="190.8" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Regression</text></g>
 
-  <line x1="26" y1="192" x2="348" y2="192" stroke="#334155" stroke-width="1.1"/>
-  <text x="26" y="214" fill="#34D399" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700">View Repository →</text>
-  <text x="348" y="214" text-anchor="end" fill="#CBD5E1" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11">github.com/shubhgudka16</text>
+  <!-- Footer CTA -->
+  <line x1="24" y1="214" x2="348" y2="214" stroke="#E2E8F0" stroke-width="1.2"/>
+  <text x="24" y="236" fill="#0F766E" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700">Explore Repository →</text>
+  <text x="348" y="236" text-anchor="end" fill="#475569" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11">shubhgudka16</text>
 </svg>
