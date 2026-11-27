@@ -1,79 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 376" width="100%" role="img" aria-label="Shubh Gudka — Final Year Computer Engineering Diploma Student">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 392" width="100%" role="img" aria-label="Shubh Gudka — Computer Engineering Diploma Student">
   <defs>
-    <linearGradient id="studioBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FFFFFF"/>
-      <stop offset="55%" stop-color="#FFFBF5"/>
-      <stop offset="100%" stop-color="#FFF5EB"/>
+    <linearGradient id="bgMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="50%" stop-color="#171923"/>
+      <stop offset="100%" stop-color="#252938"/>
     </linearGradient>
-    <radialGradient id="warmWash" cx="80%" cy="42%" r="40%">
-      <stop offset="0%" stop-color="#FDBA74" stop-opacity="0.32"/>
-      <stop offset="55%" stop-color="#FDA4AF" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#252938" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#171923" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D3344" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#252938" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="coralOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FB7185"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="coralOrangeDiag" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDA4AF"/>
+      <stop offset="50%" stop-color="#FB7185"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="metalRim" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#374151"/>
+      <stop offset="50%" stop-color="#9CA3AF"/>
+      <stop offset="100%" stop-color="#374151"/>
+    </linearGradient>
+    <linearGradient id="cylBody" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#252938"/>
+      <stop offset="45%" stop-color="#2D3344"/>
+      <stop offset="100%" stop-color="#111318"/>
+    </linearGradient>
+    <radialGradient id="coralGlow" cx="78%" cy="46%" r="38%">
+      <stop offset="0%" stop-color="#FB7185" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#F97316" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#171923" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="sunsetBar" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F97316"/>
-      <stop offset="50%" stop-color="#F43F5E"/>
-      <stop offset="100%" stop-color="#F59E0B"/>
-    </linearGradient>
-    <style>
-      @keyframes floatA { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-7px); } }
-      @keyframes floatB { 0%, 100% { transform: translateY(-4px); } 50% { transform: translateY(5px); } }
-      @keyframes floatC { 0%, 100% { transform: translateY(2px); } 50% { transform: translateY(-6px); } }
-      @keyframes pulseDot { 0%, 100% { opacity: 1; } 50% { opacity: 0.4; } }
-      .float-a { animation: floatA 4.2s ease-in-out infinite; }
-      .float-b { animation: floatB 4.8s ease-in-out infinite; }
-      .float-c { animation: floatC 4.5s ease-in-out infinite; }
-      .pulse-dot { animation: pulseDot 2.2s ease-in-out infinite; }
-    </style>
+    <radialGradient id="softGlowLeft" cx="15%" cy="28%" r="40%">
+      <stop offset="0%" stop-color="#F97316" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#171923" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <!-- 3D Studio Outer Frame -->
-  <rect x="4" y="10" width="1192" height="362" rx="22" fill="#0F172A" opacity="0.10"/>
-  <rect x="0" y="6" width="1192" height="362" rx="20" fill="#CBD5E1"/>
-  <rect x="0" y="0" width="1192" height="362" rx="20" fill="url(#studioBg)" stroke="#CBD5E1" stroke-width="1.5"/>
-  <rect x="0" y="0" width="1192" height="362" rx="20" fill="url(#warmWash)"/>
-  <rect x="40" y="0" width="1112" height="5" rx="2.5" fill="url(#sunsetBar)"/>
+  <!-- 3D Extruded Hero Frame -->
+  <rect x="6" y="8" width="1188" height="380" rx="20" fill="#111318" opacity="0.8"/>
+  <rect x="0" y="0" width="1192" height="384" rx="20" fill="url(#bgMain)" stroke="#374151" stroke-width="1.4"/>
+  <rect x="0" y="0" width="1192" height="384" rx="20" fill="url(#coralGlow)"/>
+  <rect x="0" y="0" width="1192" height="384" rx="20" fill="url(#softGlowLeft)"/>
+  <rect x="36" y="0" width="1120" height="3.5" rx="1.75" fill="url(#coralOrange)"/>
+  <line x1="20" y1="1.2" x2="1172" y2="1.2" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="1"/>
 
-  <!-- Architectural Isometric Grid & 3D Plinth -->
-  <g><line x1="928.0" y1="179.8" x2="779.04" y2="265.8" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="946.62" y1="190.55" x2="797.66" y2="276.55" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="965.24" y1="201.3" x2="816.28" y2="287.3" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="983.86" y1="212.05" x2="834.9" y2="298.05" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="1002.48" y1="222.8" x2="853.52" y2="308.8" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="1021.1" y1="233.55" x2="872.14" y2="319.55" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="1039.72" y1="244.3" x2="890.76" y2="330.3" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="1058.34" y1="255.05" x2="909.38" y2="341.05" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="1076.96" y1="265.8" x2="928.0" y2="351.8" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="928.0" y1="179.8" x2="1076.96" y2="265.8" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="909.38" y1="190.55" x2="1058.34" y2="276.55" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="890.76" y1="201.3" x2="1039.72" y2="287.3" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="872.14" y1="212.05" x2="1021.1" y2="298.05" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="853.52" y1="222.8" x2="1002.48" y2="308.8" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="834.9" y1="233.55" x2="983.86" y2="319.55" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="816.28" y1="244.3" x2="965.24" y2="330.3" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="797.66" y1="255.05" x2="946.62" y2="341.05" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/><line x1="779.04" y1="265.8" x2="928.0" y2="351.8" stroke="#CBD5E1" stroke-opacity="0.7" stroke-width="1"/></g>
+  <!-- Left Subtle Circuit Trace -->
+  <polyline points="24,62 24,330 44,350" fill="none" stroke="#374151" stroke-width="1.2"/>
+  <circle cx="24" cy="62" r="3" fill="#FB7185"/>
+
+  <!-- Right 3D Isometric Technology Composition -->
+  <g><line x1="928.0" y1="190.88" x2="779.04" y2="276.88" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="946.62" y1="201.62" x2="797.66" y2="287.62" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="965.24" y1="212.38" x2="816.28" y2="298.38" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="983.86" y1="223.12" x2="834.9" y2="309.12" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="1002.48" y1="233.88" x2="853.52" y2="319.88" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="1021.1" y1="244.62" x2="872.14" y2="330.62" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="1039.72" y1="255.38" x2="890.76" y2="341.38" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="1058.34" y1="266.12" x2="909.38" y2="352.12" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="1076.96" y1="276.88" x2="928.0" y2="362.88" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="928.0" y1="190.88" x2="1076.96" y2="276.88" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="909.38" y1="201.62" x2="1058.34" y2="287.62" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="890.76" y1="212.38" x2="1039.72" y2="298.38" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="872.14" y1="223.12" x2="1021.1" y2="309.12" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="853.52" y1="233.88" x2="1002.48" y2="319.88" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="834.9" y1="244.62" x2="983.86" y2="330.62" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="816.28" y1="255.38" x2="965.24" y2="341.38" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="797.66" y1="266.12" x2="946.62" y2="352.12" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><line x1="779.04" y1="276.88" x2="928.0" y2="362.88" stroke="#374151" stroke-opacity="0.65" stroke-width="1"/><polyline points="821.87,262.9 859.11,284.4 833.04,299.45" fill="none" stroke="#FB7185" stroke-opacity="0.7" stroke-width="1.6"/><polyline points="1041.58,267.2 998.75,291.93 1021.1,304.82" fill="none" stroke="#F97316" stroke-opacity="0.7" stroke-width="1.6"/><circle cx="821.87" cy="262.9" r="3.5" fill="#FB7185"/><circle cx="1021.1" cy="304.82" r="3.5" fill="#F97316"/></g>
   <g>
-    <g><polygon points="834.9,246.45 928.0,300.2 928.0,310.95 834.9,257.2" fill="#CBD5E1" stroke="#64748B" stroke-width="1.0" stroke-linejoin="round"/><polygon points="1021.1,246.45 928.0,300.2 928.0,310.95 1021.1,257.2" fill="#94A3B8" stroke="#64748B" stroke-width="1.0" stroke-linejoin="round"/><polygon points="928.0,192.7 1021.1,246.45 928.0,300.2 834.9,246.45" fill="#E2E8F0" stroke="#64748B" stroke-width="1.0" stroke-linejoin="round"/></g>
-    <g><polygon points="857.25,231.4 928.0,272.25 928.0,287.3 857.25,246.45" fill="#1E293B" stroke="#475569" stroke-width="1.1" stroke-linejoin="round"/><polygon points="998.75,231.4 928.0,272.25 928.0,287.3 998.75,246.45" fill="#0F172A" stroke="#475569" stroke-width="1.1" stroke-linejoin="round"/><polygon points="928.0,190.55 998.75,231.4 928.0,272.25 857.25,231.4" fill="#334155" stroke="#475569" stroke-width="1.1" stroke-linejoin="round"/></g>
-    <line x1="927.07" y1="221.19" x2="927.07" y2="205.06" stroke="#F97316" stroke-width="2" stroke-dasharray="4 3"/><line x1="954.07" y1="237.85" x2="954.07" y2="208.82" stroke="#F59E0B" stroke-width="2" stroke-dasharray="4 3"/><line x1="912.17" y1="245.91" x2="912.17" y2="221.19" stroke="#0D9488" stroke-width="2" stroke-dasharray="4 3"/><circle cx="927.07" cy="221.19" r="4.5" fill="#F97316" stroke="#FFFFFF" stroke-width="1.5"/><circle cx="954.07" cy="237.85" r="4.5" fill="#F59E0B" stroke="#FFFFFF" stroke-width="1.5"/><circle cx="912.17" cy="245.91" r="4.5" fill="#0D9488" stroke="#FFFFFF" stroke-width="1.5"/>
-    <g class="float-a"><polygon points="899.14,179.26 927.07,195.39 927.07,221.19 899.14,205.06" fill="#F97316" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/><polygon points="955.0,179.26 927.07,195.39 927.07,221.19 955.0,205.06" fill="#C2410C" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/><polygon points="927.07,163.14 955.0,179.26 927.07,195.39 899.14,179.26" fill="#FDBA74" stroke="#7C2D12" stroke-width="1.0" stroke-linejoin="round"/></g>
-    <g class="float-c"><polygon points="890.76,197.0 912.17,209.36 912.17,234.09 890.76,221.73" fill="#0D9488" stroke="#134E4A" stroke-width="1.0" stroke-linejoin="round"/><polygon points="933.59,197.0 912.17,209.36 912.17,234.09 933.59,221.73" fill="#115E59" stroke="#134E4A" stroke-width="1.0" stroke-linejoin="round"/><polygon points="912.17,184.64 933.59,197.0 912.17,209.36 890.76,197.0" fill="#5EEAD4" stroke="#134E4A" stroke-width="1.0" stroke-linejoin="round"/></g>
-    <g class="float-b"><polygon points="933.59,184.1 955.0,196.46 955.0,221.19 933.59,208.82" fill="#F59E0B" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/><polygon points="976.41,184.1 955.0,196.46 955.0,221.19 976.41,208.82" fill="#B45309" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/><polygon points="955.0,171.74 976.41,184.1 955.0,196.46 933.59,184.1" fill="#FDE68A" stroke="#78350F" stroke-width="1.0" stroke-linejoin="round"/></g>
-    <g class="float-a"><polygon points="912.17,157.76 927.07,166.36 927.07,180.34 912.17,171.74" fill="#F43F5E" stroke="#881337" stroke-width="1.0" stroke-linejoin="round"/><polygon points="941.96,157.76 927.07,166.36 927.07,180.34 941.96,171.74" fill="#BE123C" stroke="#881337" stroke-width="1.0" stroke-linejoin="round"/><polygon points="927.07,149.16 941.96,157.76 927.07,166.36 912.17,157.76" fill="#FDA4AF" stroke="#881337" stroke-width="1.0" stroke-linejoin="round"/></g>
+    <g><polygon points="838.63,256.45 928.0,308.05 928.0,317.73 838.63,266.12" fill="#252938" stroke="#374151" stroke-width="1.2" stroke-linejoin="round"/><polygon points="1017.37,256.45 928.0,308.05 928.0,317.73 1017.37,266.12" fill="#111318" stroke="#374151" stroke-width="1.2" stroke-linejoin="round"/><polygon points="928.0,204.85 1017.37,256.45 928.0,308.05 838.63,256.45" fill="#2D3344" stroke="#374151" stroke-width="1.2" stroke-linejoin="round"/></g>
+    <g opacity="0.92"><polygon points="859.11,233.88 928.0,273.65 928.0,281.17 859.11,241.4" fill="#312433" stroke="#FB7185" stroke-width="1.2" stroke-linejoin="round"/><polygon points="996.89,233.88 928.0,273.65 928.0,281.17 996.89,241.4" fill="#221B26" stroke="#FB7185" stroke-width="1.2" stroke-linejoin="round"/><polygon points="928.0,194.1 996.89,233.88 928.0,273.65 859.11,233.88" fill="url(#glassGrad)" stroke="#FB7185" stroke-width="1.2" stroke-linejoin="round"/></g>
+    <line x1="926.14" y1="224.63" x2="926.14" y2="207.43" stroke="#FB7185" stroke-width="1.6" stroke-dasharray="4 3"/><line x1="953.14" y1="241.94" x2="953.14" y2="213.99" stroke="#F97316" stroke-width="1.6" stroke-dasharray="4 3"/><line x1="911.24" y1="250.0" x2="911.24" y2="226.35" stroke="#FDA4AF" stroke-width="1.6" stroke-dasharray="4 3"/><line x1="926.14" y1="224.63" x2="953.14" y2="241.94" stroke="#FDA4AF" stroke-opacity="0.55" stroke-width="1.2"/><line x1="953.14" y1="241.94" x2="911.24" y2="250.0" stroke="#FB923C" stroke-opacity="0.55" stroke-width="1.2"/><circle cx="926.14" cy="224.63" r="4.5" fill="#FB7185" stroke="#FFFFFF" stroke-width="1"/><circle cx="953.14" cy="241.94" r="4.5" fill="#F97316" stroke="#FFFFFF" stroke-width="1"/><circle cx="911.24" cy="250.0" r="4.5" fill="#FDA4AF" stroke="#FFFFFF" stroke-width="1"/>
+    <g><polygon points="901.0,178.51 926.14,193.02 926.14,222.05 901.0,207.54" fill="#FB7185" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/><polygon points="951.27,178.51 926.14,193.02 926.14,222.05 951.27,207.54" fill="#BE123C" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/><polygon points="926.14,164.0 951.27,178.51 926.14,193.02 901.0,178.51" fill="#FDA4AF" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/></g>
+    <g><polygon points="890.76,202.7 911.24,214.52 911.24,238.17 890.76,226.35" fill="#2D3344" stroke="#FDA4AF" stroke-width="1.0" stroke-linejoin="round"/><polygon points="931.72,202.7 911.24,214.52 911.24,238.17 931.72,226.35" fill="#111318" stroke="#FDA4AF" stroke-width="1.0" stroke-linejoin="round"/><polygon points="911.24,190.88 931.72,202.7 911.24,214.52 890.76,202.7" fill="#4B5563" stroke="#FDA4AF" stroke-width="1.0" stroke-linejoin="round"/></g>
+    <g><polygon points="932.65,190.34 953.14,202.16 953.14,225.81 932.65,213.99" fill="#FB923C" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/><polygon points="973.62,190.34 953.14,202.16 953.14,225.81 973.62,213.99" fill="#C2410C" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/><polygon points="953.14,178.51 973.62,190.34 953.14,202.16 932.65,190.34" fill="#FDBA74" stroke="#FFFFFF" stroke-width="0.9" stroke-linejoin="round"/></g>
+    <rect x="742" y="76" width="52" height="28" rx="8" fill="#252938" stroke="#FB7185" stroke-opacity="0.7" stroke-width="1.1"/><text x="768" y="94.5" text-anchor="middle" fill="#FDA4AF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700">{ }</text>
+    <rect x="1082" y="92" width="58" height="28" rx="8" fill="#252938" stroke="#F97316" stroke-opacity="0.7" stroke-width="1.1"/><text x="1111" y="110.5" text-anchor="middle" fill="#FB923C" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700">&lt;/&gt;</text>
   </g>
 
-  <!-- Editorial Left Content -->
+  <!-- Left Typography Area -->
   <g>
-    <rect x="60" y="44" width="312" height="30" rx="15" fill="#FFF7ED" stroke="#F97316" stroke-width="1.3"/>
-    <circle cx="79" cy="59" r="5" fill="#10B981" class="pulse-dot"/>
-    <text x="94" y="63.5" fill="#9A3412" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="0.6">JAMNAGAR · COMPUTER ENGINEERING</text>
+    <rect x="58" y="38" width="332" height="28" rx="14" fill="#252938" stroke="#374151" stroke-width="1.1"/>
+    <circle cx="76" cy="52" r="4.5" fill="#FB7185"/>
+    <text x="90" y="56.5" fill="#FDA4AF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.2" font-weight="700" letter-spacing="0.6">COMPUTER ENGINEERING · JAMNAGAR</text>
 
-    <!-- 3D Coral Shadow + Crisp Dark Ink Name -->
-    <text x="64" y="139" fill="#FDBA74" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1">Shubh Gudka</text>
-    <text x="60" y="135" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-1">Shubh Gudka</text>
+    <!-- 3D Extruded Developer Name -->
+    <text x="61" y="131" fill="#FB7185" opacity="0.32" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-0.8">Shubh Gudka</text>
+    <text x="58" y="128" fill="#FFFFFF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" letter-spacing="-0.8">Shubh Gudka</text>
 
-    <text x="61" y="176" fill="#1E293B" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">
+    <text x="59" y="168" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="19.5" font-weight="600">
       Final Year Computer Engineering Diploma Student
     </text>
-    <text x="61" y="203" fill="#475569" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">
+    <text x="59" y="194" fill="#9CA3AF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">
       Building practical software, clean data workflows, and machine learning applications.
     </text>
 
-    <g><rect x="60" y="229.5" width="159.2" height="32" rx="9" fill="#FED7AA"/><rect x="60" y="226" width="159.2" height="32" rx="9" fill="#FFF7ED" stroke="#F97316" stroke-width="1.3"/><text x="139.6" y="246.3" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Python Enthusiast</text></g>
-    <g><rect x="231.2" y="229.5" width="144.0" height="32" rx="9" fill="#FECDD3"/><rect x="231.2" y="226" width="144.0" height="32" rx="9" fill="#FFF1F2" stroke="#F43F5E" stroke-width="1.3"/><text x="303.2" y="246.3" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">AI &amp; ML Learner</text></g>
-    <g><rect x="387.2" y="229.5" width="144.0" height="32" rx="9" fill="#99F6E4"/><rect x="387.2" y="226" width="144.0" height="32" rx="9" fill="#F0FDFA" stroke="#0D9488" stroke-width="1.3"/><text x="459.2" y="246.3" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600">Data &amp; Web Apps</text></g>
-
-    <!-- High-Contrast Warm Slate Terminal Dock -->
-    <rect x="60" y="284" width="510" height="40" rx="11" fill="#0F172A"/>
-    <rect x="60" y="280" width="510" height="40" rx="11" fill="#1E293B" stroke="#334155" stroke-width="1.2"/>
-    <circle cx="80" cy="300" r="4.5" fill="#FB7185"/>
-    <circle cx="95" cy="300" r="4.5" fill="#FBBF24"/>
-    <circle cx="110" cy="300" r="4.5" fill="#34D399"/>
-    <text x="128" y="304.5" fill="#FDBA74" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12.5" font-weight="700">~/shubhgudka16</text>
-    <text x="245" y="304.5" fill="#FFFFFF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12.5">$ python build_with_data.py --clean</text>
+    <g><rect x="58" y="215" width="179.3" height="30" rx="8" fill="#111318" opacity="0.8"/><rect x="58" y="214" width="179.3" height="30" rx="8" fill="#FB7185" opacity="0.35"/><rect x="58" y="212" width="179.3" height="30" rx="8" fill="#252938" stroke="#374151" stroke-width="1.1"/><line x1="66" y1="213" x2="229.3" y2="213" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/><text x="147.65" y="231.1" text-anchor="middle" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Python &amp; Software Dev</text></g>
+    <g><rect x="249.3" y="215" width="179.3" height="30" rx="8" fill="#111318" opacity="0.8"/><rect x="249.3" y="214" width="179.3" height="30" rx="8" fill="#F97316" opacity="0.35"/><rect x="249.3" y="212" width="179.3" height="30" rx="8" fill="#252938" stroke="#374151" stroke-width="1.1"/><line x1="257.3" y1="213" x2="420.6" y2="213" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/><text x="338.95000000000005" y="231.1" text-anchor="middle" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">AI &amp; Machine Learning</text></g>
+    <g><rect x="440.6" y="215" width="113.6" height="30" rx="8" fill="#111318" opacity="0.8"/><rect x="440.6" y="214" width="113.6" height="30" rx="8" fill="#FDA4AF" opacity="0.35"/><rect x="440.6" y="212" width="113.6" height="30" rx="8" fill="#252938" stroke="#374151" stroke-width="1.1"/><line x1="448.6" y1="213" x2="546.2" y2="213" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/><text x="497.40000000000003" y="231.1" text-anchor="middle" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="600">Data Science</text></g>
+    <rect x="64" y="272" width="528" height="84" rx="12" fill="#111318" opacity="0.75"/><rect x="58" y="266" width="528" height="84" rx="12" fill="#111318" stroke="#374151" stroke-width="1.2"/><rect x="58" y="266" width="528" height="26" rx="12" fill="#252938"/><rect x="58" y="280" width="528" height="12" fill="#252938"/><line x1="58" y1="292" x2="586" y2="292" stroke="#374151" stroke-width="1"/><circle cx="77" cy="279" r="4" fill="#FB7185"/><circle cx="92" cy="279" r="4" fill="#F97316"/><circle cx="107" cy="279" r="4" fill="#9CA3AF"/><text x="128" y="283" fill="#9CA3AF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11">shubh@dev — python3</text><text x="76" y="314" fill="#FB7185" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700">&gt;&gt;&gt;</text><text x="108" y="314" fill="#F3F4F6" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12">from sklearn import models  # clean code &amp; practical ML</text><text x="76" y="336" fill="#FB923C" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700">$</text><text x="94" y="336" fill="#9CA3AF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12">python train_pipeline.py --focus=&quot;real-world-problems&quot;</text>
   </g>
 </svg>

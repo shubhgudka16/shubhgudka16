@@ -1,40 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 268" width="100%" role="img" aria-label="Credit Card Fraud Detection">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 316" width="100%" role="img" aria-label="Credit Card Fraud Detection">
   <defs>
-    <linearGradient id="hdrGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1E293B"/>
-      <stop offset="100%" stop-color="#334155"/>
+    <linearGradient id="bgMain" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111318"/>
+      <stop offset="50%" stop-color="#171923"/>
+      <stop offset="100%" stop-color="#252938"/>
     </linearGradient>
-    <clipPath id="cardClip">
-      <rect x="4" y="4" width="368" height="58" rx="16"/>
-    </clipPath>
+    <linearGradient id="panelGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#252938" stop-opacity="0.96"/>
+      <stop offset="100%" stop-color="#171923" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="glassGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D3344" stop-opacity="0.72"/>
+      <stop offset="100%" stop-color="#252938" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="coralOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FB7185"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="coralOrangeDiag" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDA4AF"/>
+      <stop offset="50%" stop-color="#FB7185"/>
+      <stop offset="100%" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="metalRim" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#374151"/>
+      <stop offset="50%" stop-color="#9CA3AF"/>
+      <stop offset="100%" stop-color="#374151"/>
+    </linearGradient>
+    <linearGradient id="cylBody" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#252938"/>
+      <stop offset="45%" stop-color="#2D3344"/>
+      <stop offset="100%" stop-color="#111318"/>
+    </linearGradient>
+    <radialGradient id="coralGlow" cx="78%" cy="46%" r="38%">
+      <stop offset="0%" stop-color="#FB7185" stop-opacity="0.22"/>
+      <stop offset="55%" stop-color="#F97316" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#171923" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="softGlowLeft" cx="15%" cy="28%" r="40%">
+      <stop offset="0%" stop-color="#F97316" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#171923" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
-  <rect x="7" y="15" width="368" height="254" rx="16" fill="#0F172A" opacity="0.10"/>
-  <rect x="4" y="11" width="368" height="254" rx="16" fill="#94A3B8"/>
-  <rect x="4" y="4" width="368" height="254" rx="16" fill="#FFFFFF" stroke="#475569" stroke-width="1.3"/>
+  <rect x="15" y="17" width="362" height="298" rx="18" fill="#111318" opacity="0.68"/>
+  <rect x="10.55" y="13" width="362" height="298" rx="18" fill="#111318" stroke="#374151" stroke-width="0.9"/>
+  <rect x="6" y="6" width="362" height="298" rx="18" fill="url(#panelGrad)" stroke="#374151" stroke-width="1.25"/>
+  <line x1="24" y1="7.2" x2="350" y2="7.2" stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1.1" stroke-linecap="round"/>
+  <rect x="28" y="6" width="318" height="3" rx="1.5" fill="url(#coralOrange)"/>
+  <rect x="24" y="20" width="324" height="124" rx="12" fill="#111318" stroke="#374151" stroke-width="1"/><rect x="42" y="34" width="144" height="94" rx="10" fill="#252938" stroke="#374151" stroke-width="1.1"/><rect x="54" y="46" width="54" height="6" rx="3" fill="#FDA4AF"/><rect x="56" y="96" width="14" height="22" rx="3" fill="#2D3344"/><rect x="76" y="84" width="14" height="34" rx="3" fill="#2D3344"/><rect x="96" y="62" width="14" height="56" rx="3" fill="url(#coralOrange)"/><rect x="116" y="90" width="14" height="28" rx="3" fill="#2D3344"/><rect x="136" y="76" width="14" height="42" rx="3" fill="#F97316" opacity="0.8"/><rect x="156" y="94" width="14" height="24" rx="3" fill="#2D3344"/><line x1="208" y1="62" x2="256" y2="82" stroke="#FB7185" stroke-width="1.4"/><line x1="208" y1="104" x2="256" y2="82" stroke="#F97316" stroke-width="1.4"/><line x1="256" y1="82" x2="306" y2="82" stroke="url(#coralOrange)" stroke-width="1.8"/><circle cx="208" cy="62" r="5" fill="#252938" stroke="#FB7185" stroke-width="1.8"/><circle cx="208" cy="104" r="5" fill="#252938" stroke="#F97316" stroke-width="1.8"/><circle cx="256" cy="82" r="7" fill="#FB7185" stroke="#FFFFFF" stroke-width="1.1"/><circle cx="306" cy="82" r="24" fill="#252938" stroke="#FB7185" stroke-width="2" stroke-dasharray="6 3"/><circle cx="306" cy="82" r="14" fill="url(#coralOrangeDiag)" opacity="0.9"/><text x="306" y="86" text-anchor="middle" fill="#FFFFFF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11" font-weight="700">ML</text>
 
-  <!-- Colored 3D Studio Header Band -->
-  <g clip-path="url(#cardClip)">
-    <rect x="4" y="4" width="368" height="58" fill="url(#hdrGrad)"/>
-  </g>
-  <rect x="4" y="46" width="368" height="16" fill="url(#hdrGrad)"/>
-  <text x="24" y="39" fill="#FFFFFF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11" font-weight="700" letter-spacing="0.9">MACHINE LEARNING</text>
+  <text x="24" y="164" fill="#FB7185" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10.5" font-weight="700" letter-spacing="0.8">MACHINE LEARNING</text>
+  <text x="24" y="187" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="17" font-weight="700">Credit Card Fraud Detection</text>
+  <text x="24" y="206" fill="#9CA3AF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12.5">Machine learning project identifying</text>
+  <text x="24" y="222" fill="#9CA3AF" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="12.5">fraudulent transactions from data.</text>
 
-  <!-- Overlapping 3D Studio Emblem -->
-  <rect x="296" y="36" width="52" height="48" rx="12" fill="#FFFFFF" stroke="#475569" stroke-width="1.4"/>
-  <g><polygon points="310.74,61.35 322.0,67.85 322.0,75.0 310.74,68.5" fill="#F59E0B" stroke="#78350F" stroke-width="0.9" stroke-linejoin="round"/><polygon points="333.26,61.35 322.0,67.85 322.0,75.0 333.26,68.5" fill="#B45309" stroke="#78350F" stroke-width="0.9" stroke-linejoin="round"/><polygon points="322.0,54.85 333.26,61.35 322.0,67.85 310.74,61.35" fill="#FDE68A" stroke="#78350F" stroke-width="0.9" stroke-linejoin="round"/></g>
-  <g><polygon points="314.12,51.99 322.0,56.54 322.0,63.69 314.12,59.14" fill="#FDE68A" stroke="#78350F" stroke-width="0.9" stroke-linejoin="round"/><polygon points="329.88,51.99 322.0,56.54 322.0,63.69 329.88,59.14" fill="#F59E0B" stroke="#78350F" stroke-width="0.9" stroke-linejoin="round"/><polygon points="322.0,47.44 329.88,51.99 322.0,56.54 314.12,51.99" fill="#FFFFFF" stroke="#78350F" stroke-width="0.9" stroke-linejoin="round"/></g>
+  <g><rect x="24" y="235" width="59.2" height="24" rx="8" fill="#111318" opacity="0.8"/><rect x="24" y="234" width="59.2" height="24" rx="8" fill="#FB7185" opacity="0.35"/><rect x="24" y="232" width="59.2" height="24" rx="8" fill="#2D3344" stroke="#374151" stroke-width="1.1"/><line x1="32" y1="233" x2="75.2" y2="233" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/><text x="53.6" y="248.1" text-anchor="middle" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" font-weight="600">Python</text></g><g><rect x="89.2" y="235" width="32.4" height="24" rx="8" fill="#111318" opacity="0.8"/><rect x="89.2" y="234" width="32.4" height="24" rx="8" fill="#FB7185" opacity="0.35"/><rect x="89.2" y="232" width="32.4" height="24" rx="8" fill="#2D3344" stroke="#374151" stroke-width="1.1"/><line x1="97.2" y1="233" x2="113.6" y2="233" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/><text x="105.4" y="248.1" text-anchor="middle" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" font-weight="600">ML</text></g><g><rect x="127.6" y="235" width="106.1" height="24" rx="8" fill="#111318" opacity="0.8"/><rect x="127.6" y="234" width="106.1" height="24" rx="8" fill="#FB7185" opacity="0.35"/><rect x="127.6" y="232" width="106.1" height="24" rx="8" fill="#2D3344" stroke="#374151" stroke-width="1.1"/><line x1="135.6" y1="233" x2="225.7" y2="233" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/><text x="180.64999999999998" y="248.1" text-anchor="middle" fill="#F3F4F6" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="10.8" font-weight="600">Data Analysis</text></g>
 
-  <!-- Title & Body -->
-  <text x="24" y="96" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="18.5" font-weight="800">Credit Card Fraud Detection</text>
-  <text x="24" y="122" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">Machine learning pipeline that analyzes</text>
-  <text x="24" y="141" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">transaction patterns to identify and flag</text>
-  <text x="24" y="160" fill="#334155" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="13">fraudulent credit card activity.</text>
-
-  <g><rect x="24" y="177.5" width="60.8" height="25" rx="9" fill="#94A3B8"/><rect x="24" y="174" width="60.8" height="25" rx="9" fill="#F8FAFC" stroke="#475569" stroke-width="1.3"/><text x="54.4" y="190.8" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Python</text></g><g><rect x="91.8" y="177.5" width="33.6" height="25" rx="9" fill="#94A3B8"/><rect x="91.8" y="174" width="33.6" height="25" rx="9" fill="#F8FAFC" stroke="#475569" stroke-width="1.3"/><text x="108.6" y="190.8" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">ML</text></g><g><rect x="132.4" y="177.5" width="108.4" height="25" rx="9" fill="#94A3B8"/><rect x="132.4" y="174" width="108.4" height="25" rx="9" fill="#F8FAFC" stroke="#475569" stroke-width="1.3"/><text x="186.60000000000002" y="190.8" text-anchor="middle" fill="#0F172A" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="600">Data Analysis</text></g>
-
-  <!-- Footer CTA -->
-  <line x1="24" y1="214" x2="348" y2="214" stroke="#E2E8F0" stroke-width="1.2"/>
-  <text x="24" y="236" fill="#0F172A" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" font-weight="700">Explore Repository →</text>
-  <text x="348" y="236" text-anchor="end" fill="#475569" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11">shubhgudka16</text>
+  <line x1="24" y1="269" x2="348" y2="269" stroke="#374151" stroke-width="1"/>
+  <text x="24" y="289" fill="#FB923C" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700">View Repository →</text>
+  <text x="348" y="289" text-anchor="end" fill="#9CA3AF" font-family="'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace" font-size="10.8">shubhgudka16</text>
 </svg>
